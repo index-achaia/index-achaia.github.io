@@ -5,12 +5,12 @@ layout: page
 
 ## <a name="G">G</a>
 
-[Gaia](../gaia/) · [Götter](../goetter/)
+[Gaia](/gaia/) · [Götter](/goetter/)
 
 ## <a name="M">M</a>
 
-[Manifestation](../manifestation/)
+[Manifestation](/manifestation/)
 
 ## <a name="U">U</a>
 
-[Uranus](../uranus/)
+[Uranus](/uranus/)
