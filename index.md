@@ -6,7 +6,7 @@ exclude: true
 
 Hintergrundinfos zur Welt [Achaia](/achaia/).
 
-[A](#A) · [G](#G) · [K](#K) · [M](#M) · [N](#N) · [U](#U) · [Z](#Z)
+[A](#A) · [G](#G) · [K](#K) · [M](#M) · [N](#N) · [R](#R) · [U](#U) · [Z](#Z)
 
 ## <a name="A">A</a>
 
@@ -27,6 +27,10 @@ Hintergrundinfos zur Welt [Achaia](/achaia/).
 ## <a name="N">N</a>
 
 [Nymphäum](/nymphaeum/)
+
+## <a name="R">R</a>
+
+[Rhea](/rhea/)
 
 ## <a name="U">U</a>
 
