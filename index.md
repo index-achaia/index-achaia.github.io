@@ -1,7 +1,6 @@
 ---
 layout: page
-title: INDEX ACHAIA
-permalink: /index-achaia/
+exclude: true
 ---
 [G](#G) · [M](#M) · [U](#U)
 
