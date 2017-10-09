@@ -18,7 +18,7 @@ Hintergrundinfos zur Welt [Achaia](/achaia/).
 
 ## <a name="K">K</a>
 
-[Kyklopen](/kyklopen/)
+[Koios](/koios/) · [Kyklopen](/kyklopen/)
 
 ## <a name="M">M</a>
 
