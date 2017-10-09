@@ -1,9 +1,10 @@
 ---
 layout: page
+title: Index Achaia
 exclude: true
 ---
 
-*Hintergrundinfos zur Welt [Achaia](/achaia/).*
+Hintergrundinfos zur Welt [Achaia](/achaia/).
 
 [A](#A) · [G](#G) · [M](#M) · [U](#U)
 
