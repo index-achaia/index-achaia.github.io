@@ -34,7 +34,7 @@ Hintergrundinfos zur Welt [Achaia](/achaia/).
 
 ## <a name="U">U</a>
 
-[Uranus](/uranus/)
+[Uraniden](/uraniden/) · [Uranus](/uranus/)
 
 ## <a name="Z">Z</a>
 
