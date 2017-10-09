@@ -6,7 +6,7 @@ exclude: true
 
 Hintergrundinfos zur Welt [Achaia](/achaia/).
 
-[A](#A) · [G](#G) · [M](#M) · [U](#U)
+[A](#A) · [G](#G) · [K](#K) · [M](#M) · [U](#U)
 
 ## <a name="A">A</a>
 
@@ -15,6 +15,10 @@ Hintergrundinfos zur Welt [Achaia](/achaia/).
 ## <a name="G">G</a>
 
 [Gaia](/gaia/) · [Götter](/goetter/)
+
+## <a name="K">K</a>
+
+[Kyklopen](/kyklopen/)
 
 ## <a name="M">M</a>
 
