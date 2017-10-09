@@ -22,7 +22,7 @@ Hintergrundinfos zur Welt [Achaia](/achaia/).
 
 ## <a name="M">M</a>
 
-[Manifestation](/manifestation/)
+[Manifestation](/manifestation/) · [Menoitios](/menoitios/)
 
 ## <a name="N">N</a>
 
