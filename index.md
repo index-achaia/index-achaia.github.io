@@ -38,4 +38,4 @@ Hintergrundinfos zur Welt [Achaia](/achaia/).
 
 ## <a name="Z">Z</a>
 
-[Zeus](/zeus) · [Zyklopen](/kyklopen/) · [Zyprus](/zyprus/) · [Zypern](/zyprus/)
+[Zeus](/zeus) · [Zyklopen](/kyklopen/) · [Zypern](/zyprus/) · [Zyprus](/zyprus/)
