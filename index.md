@@ -1,5 +1,6 @@
 ---
 layout: page
+exclude: true
 ---
 [G](#G) · [M](#M) · [U](#U)
 
