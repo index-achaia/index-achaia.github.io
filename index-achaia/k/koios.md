@@ -15,6 +15,4 @@ Koios erklärt sich - im Gegensatz zu seiner Gattin Phoibe - bereit, auf Seiten 
 Wisse mich an deiner Seit, \
 trotz allem, was die Weiber spinnen. \
 Gemeinsam will ich niederringen, \
-was immer sich über Titanenstamm erheben will. \
-**KOIOS** \
-**Titaneion-Titanenschlacht Episoda 1: Bestienborn - FÜNFTER GESANG**
+was immer sich über Titanenstamm erheben will.
