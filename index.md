@@ -58,7 +58,7 @@ Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/
 
 ## <a name="P">P</a>
 
-[Phoibe](/phoibe/)
+[Padmilos](/padmilos/) · [Pandrinos](/pandrinos/) · [Paphos](/paphos/) · [Parnass](/parnass/) · [Perdix](/perdix/) · [Phoibe](/phoibe/) · [Phydrax](/phydrax/) · [Poseidon](/poseidon/) · [Protogenoi](/protogenoi/) · [Pygmalion](/pygmalion/) · [Python](/python/)
 
 ## <a name="R">R</a>
 
