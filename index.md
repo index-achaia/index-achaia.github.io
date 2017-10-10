@@ -38,7 +38,7 @@ Hintergrundinfos zur Welt [Achaia](/achaia/).
 
 ## <a name="M">M</a>
 
-[Manifestation](/manifestation/) · [Menoitios](/menoitios/)
+[Manifestation](/manifestation/) · [Menoitios](/menoitios/) · [Metis](/metis/) · [Mnemosyne](/mnemosyne/)
 
 ## <a name="N">N</a>
 
