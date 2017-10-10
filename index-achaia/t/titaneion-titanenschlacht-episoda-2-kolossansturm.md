@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Titaneion-Titanenschlacht Episoda 2&#58; Kolossansturm
+title: Titaneion-Titanenschlacht Episoda 2: Kolossansturm
 permalink: /titaneion-titanenschlacht-episoda-2-kolossansturm/
 exclude: true
 ---
