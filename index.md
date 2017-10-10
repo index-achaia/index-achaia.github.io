@@ -26,7 +26,7 @@ Hintergrundinfos zur Welt [Achaia](/achaia/).
 
 ## <a name="G">G</a>
 
-[Gaia](/gaia/) · [Götter](/goetter/)
+[Gaia](/gaia/) · [Götter](/goetter/) · [Griechenland](/griechenland/) · [Gyges](/gyges/)
 
 ## <a name="K">K</a>
 
