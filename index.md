@@ -70,7 +70,7 @@ Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/
 
 ## <a name="T">T</a>
 
-[Tartarus](/tartarus/)
+[Tartarus](/tartarus/) · [Tethys](/tethys/) · [Theia](/theia/) · [Themis](/themis/) · [Thermodon](/thermodon/) · [Thermodonion](/thermodonion/) · [Thrakien](/thrakien/)
 
 ## <a name="U">U</a>
 
