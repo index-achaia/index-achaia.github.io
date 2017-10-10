@@ -34,7 +34,7 @@ Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/
 
 ## <a name="H">H</a>
 
-[Hades](/hades/) · [Hekatoncheiren](/hekatoncheiren/) · [Hera](/hera/) · [Hestia](/hestia/) · [Himmelsfestung des Uranus](/himmelsfestung-des-uranus/) · [Hippe](/hippe/) · [Hyperion](/hyperion/)
+[Hades](/hades/) · [Hekatoncheiren](/hekatoncheiren/) · [Hera](/hera/) · [Hestia](/hestia/) · [Himmelsfestung des Uranus](/himmelsfestung-des-uranus/) · [Hippe](/hippe/) · [Hydrofestation](/poseidon#hydrofestation/) · [Hyperion](/hyperion/)
 
 ## <a name="I">I</a>
 
