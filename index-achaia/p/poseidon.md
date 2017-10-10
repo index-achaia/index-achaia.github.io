@@ -12,9 +12,17 @@ exclude: true
 Seine Haut ist bläulich. Seine Waffe ist der Dreizack.
 
 ## Besondere Talente
-### Die rasenden Rosse
+### Die rasenden Rosse des Poseidon
 
 Poseidon vermag, aus Wellen gewaltige Rosse aus Wasser zu erzeugen, die auf seine Feinde zurasen und diese vernichten. Kaum etwas vemag, den rasenden Rossen des Poseidon standzuhalten.
+
+### Wasserverwandlung (Hydrofestation)
+
+Poseidon kann sich selbst in Wasser verwandeln und dabei jede mögliche Form annehmen. Er kann jederzeit Wasser herbeibeschwören und Wasser in seiner näheren Umgebung manipulieren.
+
+## Ereignisse in Titaneion-Titanenschlacht Episoda 1: Bestienborn
+
+Während der [Verschlingung der Kroniden](/verschlingung-der-kroniden/) wird er vom Titanen [Kronos](/kronos/) verschlungen.
 
 ## Ereignisse in Arachneion-Pallashass
 
