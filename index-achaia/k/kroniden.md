@@ -1,3 +1,9 @@
+---
+layout: page
+title: Kroniden
+permalink: /kroniden/
+exclude: true
+---
 Als **Kroniden** bezeichnet man die Kinder des [Kronos](/kronos/):
 
 * [Demeter](/demeter/)
