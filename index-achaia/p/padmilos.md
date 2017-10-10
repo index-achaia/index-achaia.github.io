@@ -1,3 +1,10 @@
+---
+layout: page
+title: Padmilos
+permalink: /padmilos/
+exclude: true
+---
+
 **Padmilos** ist ein Junge aus [Kolophon](/kolophon/).
 
 ## Ereignisse in Arachneion-Pallashass
