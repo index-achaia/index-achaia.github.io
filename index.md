@@ -6,7 +6,7 @@ exclude: true
 
 Hintergrundinfos zur Welt [Achaia](/achaia/).
 
-[A](#A) · [B](#B) · [C](#C) · [G](#G) · [K](#K) · [M](#M) · [N](#N) · [P](#P) · [R](#R) · [T](#T) · [U](#U) · [Z](#Z)
+[A](#A) · [B](#B) · [C](#C) · [D](#D) · [G](#G) · [K](#K) · [M](#M) · [N](#N) · [P](#P) · [R](#R) · [T](#T) · [U](#U) · [Z](#Z)
 
 ## <a name="A">A</a>
 
@@ -19,6 +19,10 @@ Hintergrundinfos zur Welt [Achaia](/achaia/).
 ## <a name="C">C</a>
 
 [Chaos](/kaos/)
+
+## <a name="D">D</a>
+
+[Daedalus](/daedalus/) · [Demeter](/demeter/)
 
 ## <a name="G">G</a>
 
