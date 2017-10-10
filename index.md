@@ -6,11 +6,15 @@ exclude: true
 
 Hintergrundinfos zur Welt [Achaia](/achaia/).
 
-[A](#A) · [G](#G) · [K](#K) · [M](#M) · [N](#N) · [P](#P) · [R](#R) · [T](#T) · [U](#U) · [Z](#Z)
+[A](#A) · [B](#B) · [G](#G) · [K](#K) · [M](#M) · [N](#N) · [P](#P) · [R](#R) · [T](#T) · [U](#U) · [Z](#Z)
 
 ## <a name="A">A</a>
 
 [Achaia](/achaia/) · [Aether](/aether/) · [Aphrodite](/aphrodite/) · [Askrinos](/askrinos/) · [Athen](/athen/) · [Athene](/athene/) · [Atlas](/atlas/) · [Attika](/attika/)
+
+## <a name="B">B</a>
+
+[Bestien-Ikas](/bestien-ikas/) · [Briareos](/briareos/)
 
 ## <a name="G">G</a>
 
