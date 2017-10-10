@@ -6,7 +6,7 @@ exclude: true
 
 Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/).
 
-[A](#A) · [B](#B) · [C](#C) · [D](#D) · [G](#G) · [H](#H) · [I](#I) · [K](#K) · [M](#M) · [N](#N) · [O](#O) · [P](#P) · [R](#R) · [T](#T) · [U](#U) · [Z](#Z)
+[A](#A) · [B](#B) · [C](#C) · [D](#D) · [E](#E) · [G](#G) · [H](#H) · [I](#I) · [K](#K) · [M](#M) · [N](#N) · [O](#O) · [P](#P) · [R](#R) · [T](#T) · [U](#U) · [Z](#Z)
 
 ## <a name="A">A</a>
 
@@ -23,6 +23,10 @@ Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/
 ## <a name="D">D</a>
 
 [Daedalus](/daedalus/) · [Demeter](/demeter/)
+
+## <a name="E">E</a>
+
+[Echnixa](/echnixa/)
 
 ## <a name="G">G</a>
 
