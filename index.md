@@ -4,7 +4,7 @@ title: Index Achaia
 exclude: true
 ---
 
-Hintergrundinfos zur Welt [Achaia](/achaia/).
+Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/).
 
 [A](#A) · [B](#B) · [C](#C) · [D](#D) · [G](#G) · [I](#I) · [K](#K) · [M](#M) · [N](#N) · [O](#O) · [P](#P) · [R](#R) · [T](#T) · [U](#U) · [Z](#Z)
 
