@@ -10,3 +10,5 @@ exclude: true
 ## Ereignisse in Titaneion-Titanenschlacht Episoda 1: Bestienborn
 
 Die Schenke wird von den Wachen des [Königs Pygmalion](/pygmalion/) auf der Suche nach [Bestien-Ikas](/bestien-ikas/), [Athene](/athene/), [Aphrodite](/aphrodite/), [Hades](/hades/) und dem [Schatten des Kronospriesters](/schatten-des-kronospriesters/), der sich wenig später absetzt, völlig zerstört.
+
+In ihren Trümmern stellt Hades den Kopf des [Daedalus](/daedalus/) zur Rede.
