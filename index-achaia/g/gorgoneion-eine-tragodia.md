@@ -6,18 +6,18 @@ exclude: true
 ---
 
 ## Inhaltsverzeichnis
-* Personae
-* Zusammenfassung
-* Gesängekatalog
-  * PROLOG
-  * ERSTE EPISODA
-  * ZWEITE EPISODA
-  * DRITTE EPISODA
-  * VIERTE EPISODA
-  * EXODUS
-* Ausführliches Personenverzeichnis
-* Orte, Länder, Flüsse
-* Easter Eggs
+* [Personae](#personae)
+* [Zusammenfassung](#zusammenfassung)
+* [Gesängekatalog](#gesängekatalog)
+  * [PROLOG](#prolog)
+  * [ERSTE EPISODA](#erste-episoda)
+  * [ZWEITE EPISODA](#zweite-episoda)
+  * [DRITTE EPISODA](#dritte-episoda)
+  * [VIERTE EPISODA](#vierte-episoda)
+  * [EXODUS](#exodus)
+* [Ausführliches Personenverzeichnis](#ausführliches-personenverzeichnis)
+* [Orte, Länder, Flüsse](#orte-länder-flüsse)
+* [Easter Eggs](#easter-eggs)
 
 ## Personae
 
