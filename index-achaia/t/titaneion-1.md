@@ -326,71 +326,19 @@ Der Schatten berichtet dem Schatten vom Einsturz der Schenke. Kronos ist mit den
 * [Verschlingung der Kroniden](/verschlingung-der-kroniden/)
 
 ## Ausführliches Personenverzeichnis
-    Aphrodite
-    Athene
-    Atlas
-    Bestien-Ikas
-    Briareos
-    Daedalus
-    Demeter
-    Dronos
-    Gaia
-    Gyges
-    Hades
-    Hera
-    Hestia
-    Hyperion
-    Iapetos
-    Ikas
-    Koios
-    Kottos
-    Kreios
-    Kronos
-    Kronospriester
-    Menoitios
-    Mnemosyne
-    Okeanos
-    Pandrinos
-    Perdix
-    Phoibe
-    Poseidon
-    Rhea
-    Sandrias
-    Schatten des Kronospriesters
-    Tethys
-    Theia
-    Themis
-    Uranus
-    Zeus
+[Aphrodite](/aphrodite/) · [Athene](/athene/) · [Atlas](/atlas/) · [Bestien-Ikas](/bestien-ikas/) · [Briareos](/briareos/) · [Daedalus](/daedalus/) · [Demeter](/demeter/) · [Dronos](/dronos/) · [Gaia](/gaia/) · [Gyges](/gyges/) · [Hades](/hades/) · [Hera](/hera/) · [Hestia](/hestia/) · [Hyperion](/hyperion/) · [Iapetos](/iapetos/) · [Ikas](/ikas/) · [Koios](/koios/) · [Kottos](/kottos/) · [Kreios](/kreios/) · [Kronos](/kronos/) · [Kronospriester](/kronospriester/) · [Menoitios](/menoitios/) · [Mnemosyne](/mnemosyne/) · [Okeanos](/okeanos/) · [Pandrinos](/pandrinos/) · [Perdix](/perdix/) · [Phoibe](/phoibe/) · [Poseidon](/poseidon/) · [Rhea](/rhea/) · [Sandrias](/sandrias/) · [Schatten des Kronospriesters](/schatten-des-kronospriesters/) · [Tethys](/tethys/) · [Theia](/theia/) · [Themis](/themis/) · [Uranus](/uranus/) · [Zeus](/zeus/)
 
-Tiere, Bestien, Fabelwesen
+### Tiere, Bestien, Fabelwesen
 
-    Glaukos
-    Python
+[Glaukos](/glaukos/) · [Python](/python/)
 
-Orte, Länder, Flüsse
+### Orte, Länder, Flüsse
 
-    Athen
-    Attika
-    Euböa
-    Himmelsfeste des Uranus
-    Olymp
-    Orakel von Delphi
-    Paphos
-    Parnass
-    Quelle des Lyäus (Schenke)
-    Salamis (Insel)
-    Salamis (Zypern)
-    Tartarus
-    Thermodonion (Schenke)
-    Thrakien
-    Zum Titanischen Trunke (Schenke)
-    Zyprus
+[Athen](/athen/) · [Attika](/attika/) · [Euböa](/euböa/) · [Himmelsfeste des Uranus](/himmelsfeste-des-uranus/) · [Olymp](/olymp/) · [Orakel von Delphi](/orakel-von-delphi/) · [Paphos](/paphos/) · [Parnass](/parnass/) · [Quelle des Lyäus (Schenke)](/quelle-des-lyaeus/) · [Salamis (Insel)](/salamis-insel)/) · [Salamis (Zypern)](/salamis-zypern/) · [Tartarus](/tartarus/) · [Thermodonion (Schenke)](/thermodonion/) · [Thrakien](/thrakien/) · [Zum Titanischen Trunke (Schenke)](/zum-titanischen-trunke/) · [Zyprus](/zyprus/)
 
-Sonstige Begriffe
+### Sonstige Begriffe
 
-    Abanten
-    Trireme
+[Abanten](/abanten/) · [Trireme](/trireme/) 
 
 ## Easter Eggs
 
@@ -433,6 +381,8 @@ Himmelsfeste
 * S. 171
 
 > (Sie ~~bald~~ ballt die Faust.)
+
+Fehler: Typo.
 
 ## Siehe auch
 
