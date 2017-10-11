@@ -57,7 +57,7 @@ exclude: true
     * [Phoibe](/phoibe/)
     * [Theia](/theia/)
     * [Mnemosyne](/mnemosyne/)
-  * Weitere Götter, Titanen, Fabelwesen.
+  * Weitere [Götter](/goetter/), [Titanen](/titanen/), [Fabelwesen](/fabelwesen/).
 
 ## <a name="was-bisher-geschah"></a>Was bisher geschah
 
