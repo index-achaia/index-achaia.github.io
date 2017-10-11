@@ -26,45 +26,38 @@ exclude: true
 * [Offene Handlungsstränge](#offene-handlungsstraenge)
 
 ## <a name="personae"></a>Personae
-### Monster und Menschen
-
-* Bestien-Ikas: Ehemaliger thrakischer Heerführer. Durch Kronos in eine Bestie verwandelt.
-* Perdix: Neffe des Daedalus. Genialer Erfinder.
-* Pygmalion: Kleinwüchsiger König von Paphos. Genialer Bildhauer.
-* Ostreos: Sein oberster Diener.
-* Askrinos der Freie: Gefeierter Lebemann und Liebhaber des Ostreos.
-
-### Protogenoi und Titanen
-
-* Gaia: Die Allmutter. Uranus trieb ihr die Kyklopen und Hekatoncheiren in den Leib.
-* Uranus: Verkörperung des Himmels. Gatte der Gaia. Im Auftrag der Gaia von Kronos mit einer Hippe entmannt.
-* Kronos: Der Krumme. Jüngster Sohn des Uranus und der Gaia. Hat die Kroniden verschlungen.
-
-### Sonstige Begriffe und Fabelwesen
-
-* Kroniden: Kinder des Kronos.
-  * Zeus
-  * Hades
-  * Poseidon
-  * Hera
-  * Hestia
-  * Demeter
-
-* Uraniden: Kinder des Uranus.
-  * Kronos
-  * Rhea
-  * Themis
-  * Koios
-  * Hyperion
-  * Iapetos
-  * Kreios
-  * Okeanos
-  * Tethys
-  * Phoibe
-  * Theia
-  * Mnemosyne
-
-### Weitere Götter, Titanen, Fabelwesen.
+* Monster und Menschen
+  * Bestien-Ikas: Ehemaliger thrakischer Heerführer. Durch Kronos in eine Bestie verwandelt.
+  * Perdix: Neffe des Daedalus. Genialer Erfinder.
+  * Pygmalion: Kleinwüchsiger König von Paphos. Genialer Bildhauer.
+  * Ostreos: Sein oberster Diener.
+  * Askrinos der Freie: Gefeierter Lebemann und Liebhaber des Ostreos.
+* Protogenoi und Titanen
+  * Gaia: Die Allmutter. Uranus trieb ihr die Kyklopen und Hekatoncheiren in den Leib.
+  * Uranus: Verkörperung des Himmels. Gatte der Gaia. Im Auftrag der Gaia von Kronos mit einer Hippe entmannt.
+  * Kronos: Der Krumme. Jüngster Sohn des Uranus und der Gaia. Hat die Kroniden verschlungen.
+* Sonstige Begriffe und Fabelwesen
+  * Kroniden: Kinder des Kronos.
+    * Zeus
+    * Hades
+    * Poseidon
+    * Hera
+    * Hestia
+    * Demeter
+  * Uraniden: Kinder des Uranus.
+    * Kronos
+    * Rhea
+    * Themis
+    * Koios
+    * Hyperion
+    * Iapetos
+    * Kreios
+    * Okeanos
+    * Tethys
+    * Phoibe
+    * Theia
+    * Mnemosyne
+  * Weitere Götter, Titanen, Fabelwesen.
 
 ## <a name="was-bisher-geschah"></a>Was bisher geschah
 
