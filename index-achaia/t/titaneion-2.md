@@ -4,6 +4,7 @@ title: ! 'Titaneion-Titanenschlacht Episoda 2: Kolossansturm'
 permalink: /titaneion-2/
 exclude: true
 ---
+
 ## Inhaltsverzeichnis
 * [Personae](#personae)
 * [Was bisher geschah](#was-bisher-geschah)
