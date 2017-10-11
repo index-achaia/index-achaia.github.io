@@ -459,7 +459,7 @@ Too much to mention ...
 
 * S. 89 Uranus URANUS (sie eine Weile betrachtend, dann kopfschüttelnd).
 * S. 256 (Er macht auf dem Absatz kehrt und marschiert aus dem Raum. Hauptmann der Wache ab.) -> Sie stehen auf dem Burgberg. Der Burgberg ist kein geschlossener Raum.
-* S. 260 KRONOS, ATLAS, APRHODITE APHRODITE, in Ketten. DAEDALUS-KOPF, von der Faust des KRONOS herabbaumelnd.
+* S. 260 KRONOS, ATLAS, ~~APRHODITE~~ APHRODITE, in Ketten. DAEDALUS-KOPF, von der Faust des KRONOS herabbaumelnd.
 
 ## <a name="offene-handlungsstraenge"></a>Offene Handlungsstränge
 
