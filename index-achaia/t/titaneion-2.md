@@ -8,6 +8,7 @@ exclude: true
 * [Personae](#personae)
 * [Was bisher geschah](#was-bisher-geschah)
 * [Gesängekatalog](#gesaengekatalog)
+
 * [Ausführliches Personenverzeichnis](#personenverzeichnis)
 * [Easter Eggs](#easter-eggs)
 * [Zitate](#zitate)
@@ -83,7 +84,7 @@ In der Zwischenzeit wird die Schenke von Wachen angegriffen und niedergebrannt. 
 Hades, der die anderen für tot hält, flieht in den Tartarus. Hades, Gaia und Uranus beschließen, das Orakel von Delphi aufzusuchen, um herauszufinden, ob ihr Kampf bereits zu Ende ist – ebenso wie Kronos, der in der Zwischenzeit seine Titanenbrüder um sich versammelt hat und das Orakel befragen möchte, ob er sich noch immer vor der Rache des Bestien-Ikas in Acht nehmen muss ...
 
 ## <a name="gesaengekatalog"></a>Gesängekatalog
-### ERSTER GESANG – Orakelspruch und Kriegserklärung
+### <a name="erster-gesang"></a>ERSTER GESANG – Orakelspruch und Kriegserklärung
 
 Thronsaal in Paphos.
 
@@ -107,7 +108,7 @@ Kronos will Themis dazu zwingen, ihm im Orakel abzulesen, ob der Ikas, Athene, A
 
 Gaia und die anderen flüchten über den Hang des Parnass.
 
-### ZWEITER GESANG – Triumph der Toten
+### <a name="zweiter-gesang"></a>ZWEITER GESANG – Triumph der Toten
 
 Seitengasse mit Blick auf die qualmenden Überreste der Schenke Thermodonion in Paphos. Nacht.
 
@@ -139,7 +140,7 @@ DREI SCHATTEN schleichen durch die Dunkelheit. In der Ferne leuchten die Laterne
 
 Sie durchsuchen die Gräber nach dem Leichnam des Ikas. Ein Grabräuber taucht auf, gräbt eine Leiche aus und erschrickt. Wachen werden angelockt und offenbaren ihm, das verbrannte Pferd des Wirtes der Schenke Thermodonion als Köder vergraben zu haben. Sie führen ihn ab. Wenig später werden Perdix, Athene und Aphrodite von Untoten angegriffen (es sind die durch den Grabräuber geschändeten Leichen – ihre Münzen wurden ihnen aus den Mündern gestohlen). Ihnen gelingt die Flucht. Ein paar von dem Tumult angelockten Wachen werden von den Untoten zerrissen.
 
-### DRITTER GESANG – Der Raub des Daedalus
+### <a name="dritter-gesang"></a>DRITTER GESANG – Der Raub des Daedalus
 
 Thronsaal des Pygmalion.
 
@@ -171,7 +172,7 @@ URANUS zieht die GAIA hinein. Der gegen eine Wand gelehnte HADES, die über ihn 
 
 Die schwache Stimme schiebt mit letzter Kraft das Wasserbecken zur Seite und löst sich scheinbar auf. Unter dem Becken kommt ein Abstieg aus unzähligen Stufen zum Vorschein. Wasser fließt über die Stufen. Sie machen sich an den Abstieg.
 
-### VIERTER GESANG – Steinerne Schwüre
+### <a name="vierter-gesang"></a>VIERTER GESANG – Steinerne Schwüre
 
 Geheimes Labor des Perdix unterhalb der Stadt Paphos.
 
@@ -215,7 +216,7 @@ OSTREOS weist einige Diener ein. ASKRINOS betritt den Saal in großer Aufregung.
 
 Askrinos berichtet Ostreos von den Toten auf dem Platz und den toten Wachen auf dem Friedhof. Ostreos zeigt sich von den Toten auf dem Platz nicht beeindruckt. Askrinos erfährt etwas von einem Geheimnis des Königs, erfährt aber nicht welches. Auch der zwischenzeitlich eingetroffene Pygmalion lässt sich sein Geheimnis nicht entlocken. Askrinos spielt mit dem Gedanken, sich dem König als Modell für eine Statue anzubieten. Weder Pygmalion noch Ostreos nehmen seinen Vorschlag ernst. Der Gedanke scheint Askrinos jedoch ernst zu sein.
 
-### FÜNFTER GESANG – In giftig, tiefen Wässern
+### <a name="fuenfter-gesang"></a>FÜNFTER GESANG – In giftig, tiefen Wässern
 
 Unter dem Nymphäum zu Kourion.
 
@@ -235,7 +236,7 @@ Sie stehen ungeordnet herum und sehen das feindliche Heer auf sich zumarschieren
 
 Gaia, Uranus, Themis und Hades tauchen mitten im Heer der Stadtbewohner auf. Uranus entfesselt einen Sturmregen über dem Heer des Skylos, in dem die gesamte Armee verschwidnet. Als die Männer des Skylos am Boden sind, beschließen die Stadtbewohner, sie niederzumachen. Gaia will dies verhindern und verwandelt sich in ihre RIESENGESTALT. Nachdem sie die angreifenden Stadtbewohner vertrieben hat, kehrt sie zurück und bricht zusammen. Hades bringt sie in den Tartarus. (Zuvor schießen die Erinnyen auf das Heer des Skylos zu. Der Versuch, die Erinnyen mit geworfenen Steinen anzulocken, schläft gehl. Die Erinnyen gehen im folgenden Sturmregen des Uranus unter.)
 
-### SECHSTER GESANG – Heimlichtuerische Nächte
+### <a name="sechster-gesang"></a>SECHSTER GESANG – Heimlichtuerische Nächte
 
 Ausgang der Schenke Zum Goldenen Talente in Paphos. Die Nacht ist erst wenige Stunden alt.
 
@@ -285,7 +286,7 @@ ATLAS. KRONOS, die kreischende und strampelnde APHRODITE über der Schulter trag
 
 Kronos und Atlas entführen die Aphrodite. Athene zerstreitet sich mit Perdix und lässt ihn zurück (trennt sich von ihm), da sie Perdix die Schuld an Aphrodites Entführung gibt, da er sie vom finalen Schlag zurückgehalten hat.
 
-### SIEBTER GESANG – Die Kraft des Kronos
+### <a name="siebter-gesang"></a>SIEBTER GESANG – Die Kraft des Kronos
 
 Tartarus.
 
@@ -323,7 +324,7 @@ KOIOS. KREIOS. HYPERION. IAPETOS. MENOITIOS. Der SCHATTEN. Sie stehen um etwas h
 
 Die Titanen haben nicht die geringste Ahnung, zu welchem Zweck der Kopf sich in der Ritze befand. Sie vermuten, dass die Aphrodite etwas weiß und drohen ihr, sie zu foltern. Sie gewähren der Aphrodite eine Nacht Bedenkzeit. Der Hades hat alles unsichtbar beobachtet. Für seine Verdienste bei der Pflege des Kreios verwandelt Kronos den Schatten in einen gewaltigen Schattenkoloss und lässt ihn auf die Stadt Paphos los, damit er seine Kräfte ausprobieren kann.
 
-### ACHTER GESANG – Das Wesen der Macht
+### <a name="achter-gesang"></a>ACHTER GESANG – Das Wesen der Macht
 
 Dunkle Gasse in Paphos. Nacht.
 
@@ -367,7 +368,7 @@ HADES. URANUS. THEMIS. GAIA. Der SCHATTENKOLOSS mit dem Rücken zu ihnen.
 
 Sie kämpfen gegen den Schattenkoloss. Hades setzt seinen Nekromantengriff ein, die Stadtbewohner attackieren den Schattenkoloss mit ihren Kriegsmaschinen, Gaia in ihrer Riesengestalt und können den Schattenkoloss schließlich vertreiben. Während des Nekromantengriffs ging ein Teil der verdorbenen Macht auf den Hades über. Er hat sich in den Neuen Hades verwandelt und stellt sich gegen die anderen (“Kronos ist mein neuer Herr.”) Als er die anderen angreifen will, wird er von zwei Speeren der Stadtbewohner durchbohrt und flieht. Der Mob geht direkt auf die anderen los. Sie ergreifen die Flucht. Uranus will sich ihnen in den Weg stellen, als ein steinerner Bestien-Ikas erscheint und den Mob vertreibt. Während sie fliehen, stoßen sie auf den Perdix und den zerschmetterten Bestien-Ikas. Der Stein-Ikas rennt an Uranus und der Themis vorbei und hinter Gaia, Perdix und den Bestien-Ikas hinterher. Als die drei im Wald verschwinden trennen sie sich. Gaia, Perdix, Bestien-Ikas, Stein-Bestien-Ikas verschwinden im Wald, Uranus und Themis bleiben in der Stadt zurück.
 
-### NEUNTER GESANG – Durch das schwarze Todesdunkel
+### <a name="neunter-gesang"></a>NEUNTER GESANG – Durch das schwarze Todesdunkel
 
 Burgberg über Paphos. Nacht. Blick über die Stadt.
 
@@ -405,7 +406,7 @@ URANUS, die bewusstlose THEMIS tragend. UNTOTE starren ihm aus der Gruft hinter 
 
 Sie beschließen, Gaia, Perdix und Bestien-Ikas zu suchen. Dazu müssen sie zurück in den Wald. Themis beklagt die Rachsucht aller Parteien. Uranus will sich an Pan rächen, falls er ihm über den Weg laufen sollte.
 
-### ZEHNTER GESANG – Nicht vorhandene Verschwörungen
+### <a name="zehnter-gesang"></a>ZEHNTER GESANG – Nicht vorhandene Verschwörungen
 
 Dunkle Gasse in Paphos. Nacht.
 
