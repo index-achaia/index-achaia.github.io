@@ -8,7 +8,6 @@ exclude: true
 * [Personae](#personae)
 * [Was bisher geschah](#was-bisher-geschah)
 * [Gesängekatalog](#gesaengekatalog)
-
 * [Ausführliches Personenverzeichnis](#personenverzeichnis)
 * [Easter Eggs](#easter-eggs)
 * [Zitate](#zitate)
