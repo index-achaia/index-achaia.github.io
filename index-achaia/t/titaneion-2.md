@@ -28,35 +28,35 @@ exclude: true
 ## <a name="personae"></a>Personae
 * Monster und Menschen
   * [Bestien-Ikas](/bestien-ikas/): Ehemaliger thrakischer Heerführer. Durch Kronos in eine Bestie verwandelt.
-  * Perdix: Neffe des Daedalus. Genialer Erfinder.
-  * Pygmalion: Kleinwüchsiger König von Paphos. Genialer Bildhauer.
-  * Ostreos: Sein oberster Diener.
-  * Askrinos der Freie: Gefeierter Lebemann und Liebhaber des Ostreos.
+  * [Perdix](/perdix/): Neffe des Daedalus. Genialer Erfinder.
+  * [Pygmalion](/pygmalion/): Kleinwüchsiger König von Paphos. Genialer Bildhauer.
+  * [Ostreos](/ostreos/): Sein oberster Diener.
+  * [Askrinos der Freie](/askrinos/): Gefeierter Lebemann und Liebhaber des Ostreos.
 * Protogenoi und Titanen
-  * Gaia: Die Allmutter. Uranus trieb ihr die Kyklopen und Hekatoncheiren in den Leib.
-  * Uranus: Verkörperung des Himmels. Gatte der Gaia. Im Auftrag der Gaia von Kronos mit einer Hippe entmannt.
-  * Kronos: Der Krumme. Jüngster Sohn des Uranus und der Gaia. Hat die Kroniden verschlungen.
+  * [Gaia](/gaia/): Die Allmutter. Uranus trieb ihr die Kyklopen und Hekatoncheiren in den Leib.
+  * [Uranus](/uranus/): Verkörperung des Himmels. Gatte der Gaia. Im Auftrag der Gaia von Kronos mit einer Hippe entmannt.
+  * [Kronos](/kronos/): Der Krumme. Jüngster Sohn des Uranus und der Gaia. Hat die Kroniden verschlungen.
 * Sonstige Begriffe und Fabelwesen
-  * Kroniden: Kinder des Kronos.
-    * Zeus
-    * Hades
-    * Poseidon
-    * Hera
-    * Hestia
-    * Demeter
-  * Uraniden: Kinder des Uranus.
-    * Kronos
-    * Rhea
-    * Themis
-    * Koios
-    * Hyperion
-    * Iapetos
-    * Kreios
-    * Okeanos
-    * Tethys
-    * Phoibe
-    * Theia
-    * Mnemosyne
+  * [Kroniden](/kroniden/): Kinder des Kronos.
+    * [Zeus](/zeus/)
+    * [Hades](/hades/)
+    * [Poseidon](/poseidon/)
+    * [Hera](/hera/)
+    * [Hestia](/hestia/)
+    * [Demeter](/demeter/)
+  * [Uraniden](/uraniden/): Kinder des Uranus.
+    * [Kronos](/kronos/)
+    * [Rhea](/rhea/)
+    * [Themis](/themis/)
+    * [Koios](/koios/)
+    * [Hyperion](/hyperion/)
+    * [Iapetos](/iapetos/)
+    * [Kreios](/kreios/)
+    * [Okeanos](/okeanos/)
+    * [Tethys](/tethys/)
+    * [Phoibe](/phoibe/)
+    * [Theia](/theia/)
+    * [Mnemosyne](/mnemosyne/)
   * Weitere Götter, Titanen, Fabelwesen.
 
 ## <a name="was-bisher-geschah"></a>Was bisher geschah
