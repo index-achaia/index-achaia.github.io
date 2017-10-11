@@ -110,7 +110,16 @@ Um die versteinerten Götter wiederzuerwecken, beginnen die Dramatiker damit, di
 
 ## Ausführliches Personenverzeichnis
 
-* [Aischylos](/aischylos/) · [Cheiron](/cheiron/) · [Ephyalkes](/ephyalkes/) · [Euripides](/euripides/) · [Halix](/halix/) · [Medusa](/medusa/) · [Perseus](/perseus/) · [Phydrax](/phydrax/) · [Polydektes](/polydektes/) · [Sophokles](/sophokles/)
+* [Aischylos](/aischylos/)
+* [Cheiron](/cheiron/) 
+* [Ephyalkes](/ephyalkes/)
+* [Euripides](/euripides/)
+* [Halix](/halix/)
+* [Medusa](/medusa/)
+* [Perseus](/perseus/)
+* [Phydrax](/phydrax/)
+* [Polydektes](/polydektes/)
+* [Sophokles](/sophokles/)
 
 ### Orte, Länder, Flüsse
 
