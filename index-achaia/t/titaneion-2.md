@@ -451,7 +451,7 @@ Innerhalb des Nymphäums.
 
 ## <a name="vorsaetzliche-verstoesse"></a>Vorsätzliche Verstöße gegen Rechtschreibung & Grammatik
 
-Too much to mention ...
+*Too much to mention ...*
 
 ## <a name="fahrlaessige-verstoesse"></a>Fahrlässige Verstöße gegen Rechtschreibung, Formatierung, Grammatik, Logik
 
