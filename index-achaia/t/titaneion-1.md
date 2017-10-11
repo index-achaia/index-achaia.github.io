@@ -12,7 +12,7 @@ exclude: true
   * [ZWEITER GESANG – Die Entmannung des Uranus](#zweiter-gesang--die-entmannung-des-uranus)
   * [DRITTER GESANG – Die Verschlingung der Kroniden](#dritter-gesang--die-verschlingung-der-kroniden)
   * [VIERTER GESANG – Die Befreiung des Daedalus](#vierter-gesang--die-befreiung-des-daedalus)
-  * [FÜNFTER GESANG – Erste Titanenheerschau und Orakelspruch](#fÜnfter-gesang--erste-titanenheerschau-und-orakelspruch)
+  * [FÜNFTER GESANG – Erste Titanenheerschau und Orakelspruch](#fünfter-gesang--erste-titanenheerschau-und-orakelspruch)
   * [SECHSTER GESANG – Die Enthauptung des Daedalus](#sechster-gesang--die-enthauptung-des-daedalus)
   * [SIEBTER GESANG – Die Urgewalt der Athene und finsterstes Schwören](#siebter-gesang--die-urgewalt-der-athene-und-finsterstes-schwören)
   * [ACHTER GESANG – Verrat und Harpyiensturm](#achter-gesang--verrat-und-harpyiensturm)
