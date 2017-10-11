@@ -460,15 +460,15 @@ Orte, Länder, Flüsse
     Zyprus
 
 Sonstige Begriffe
-Easter Eggs
 
-ZWEITER GESANG – Triumph der Toten
+## Easter Eggs
+### ZWEITER GESANG – Triumph der Toten
 
 Der Titel ist eine Hommage an ein Album der Band Hellhammer:
 
     Hellhammer. Triumph of Death. Prowlin’ Death Records 1983.
 
-DRITTER GESANG – Der Raub des Daedalus
+### DRITTER GESANG – Der Raub des Daedalus
 
 Innerhalb des Nymphäums.
 
@@ -477,35 +477,35 @@ Innerhalb des Nymphäums.
 
     Goethe. Faust I.
 
-Zitate
-
-ZWEITER GESANG – Triumph der Toten Grabhügel außerhalb von Paphos. Nacht.
+## Zitate
+### ZWEITER GESANG – Triumph der Toten Grabhügel außerhalb von Paphos. Nacht.
 
     Schnell, voran zum Klingenhack!
     DRITTE WACHE
 
-Vorsätzliche Verstöße gegen Rechtschreibung & Grammatik
+## Vorsätzliche Verstöße gegen Rechtschreibung & Grammatik
 
 Too much to mention …
-Fahrlässige Verstöße gegen Rechtschreibung, Formatierung, Grammatik, Logik
 
-1. Auflage
+## Fahrlässige Verstöße gegen Rechtschreibung, Formatierung, Grammatik, Logik
 
-    S. 89 Uranus URANUS (sie eine Weile betrachtend, dann kopfschüttelnd).
-    S. 256 (Er macht auf dem Absatz kehrt und marschiert aus dem Raum. Hauptmann der Wache ab.) -> Sie stehen auf dem Burgberg. Der Burgberg ist kein geschlossener Raum.
-    S. 260 KRONOS, ATLAS, APRHODITE APHRODITE, in Ketten. DAEDALUS-KOPF, von der Faust des KRONOS herabbaumelnd.
+### 1. Auflage
 
-Offene Handlungsstränge
+* S. 89 Uranus URANUS (sie eine Weile betrachtend, dann kopfschüttelnd).
+* S. 256 (Er macht auf dem Absatz kehrt und marschiert aus dem Raum. Hauptmann der Wache ab.) -> Sie stehen auf dem Burgberg. Der Burgberg ist kein geschlossener Raum.
+* S. 260 KRONOS, ATLAS, APRHODITE APHRODITE, in Ketten. DAEDALUS-KOPF, von der Faust des KRONOS herabbaumelnd.
 
-    Athenes Rache an Zeus und Verbleib der Athene.
-    Entführung der Rhea.
-    Schlacht bei Kourion/Streitmacht des Skylos.
-    Entführung der Aphrodite.
-    Neuer Hades.
-    Daedalus’ Letzter Wille (Schriftrolle).
-    Askrinos’ Aufklärung der Verschwörung und sein Wunsch nach Unsterblichkeit.
-    Uranus’ Rache an Pan.
-    Uranus’ und Tehmis’ Suche nach Gaia, Perdix und Bestien-Ikas.
-    Erwachen der Toten in Paphos.
-    Verschlingung der Kroniden.
-    Hekatoncheiren und Kyklopen im Leib der Gaia.
+## Offene Handlungsstränge
+
+* Athenes Rache an Zeus und Verbleib der Athene.
+* Entführung der Rhea.
+* Schlacht bei Kourion/Streitmacht des Skylos.
+* Entführung der Aphrodite.
+* Neuer Hades.
+* Daedalus’ Letzter Wille (Schriftrolle).
+* Askrinos’ Aufklärung der Verschwörung und sein Wunsch nach Unsterblichkeit.
+* Uranus’ Rache an Pan.
+* Uranus’ und Tehmis’ Suche nach Gaia, Perdix und Bestien-Ikas.
+* Erwachen der Toten in Paphos.
+* Verschlingung der Kroniden.
+* Hekatoncheiren und Kyklopen im Leib der Gaia.
