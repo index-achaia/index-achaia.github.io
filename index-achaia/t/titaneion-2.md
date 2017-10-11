@@ -430,7 +430,7 @@ Askrinos trifft seinen Informanten. Nachdem der Informant ihm berichtet, dass es
 ## <a name="easter-eggs"></a>Easter Eggs
 ### ZWEITER GESANG – Triumph der Toten
 
-Der Titel ist eine Hommage an ein [Album](https://de.wikipedia.org/wiki/Triumph_of_Death) der schweizerischen Extreme-Metal-Band [Hellhammer](https://de.wikipedia.org/wiki/Hellhammer):
+Der Titel ist eine Anspielung auf ein [Album](https://de.wikipedia.org/wiki/Triumph_of_Death) der schweizerischen Extreme-Metal-Band [Hellhammer](https://de.wikipedia.org/wiki/Hellhammer):
 
     Hellhammer. Triumph of Death. Prowlin’ Death Records 1983.
 
