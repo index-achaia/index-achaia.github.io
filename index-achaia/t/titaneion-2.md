@@ -25,6 +25,8 @@ exclude: true
 * [Fahrlässige Verstöße gegen Rechtschreibung, Formatierung, Grammatik, Logik](#fahrlaessige-verstoesse)
 * [Offene Handlungsstränge](#offene-handlungsstraenge)
 
+----
+
 ## <a name="personae"></a>Personae
 * Monster und Menschen
   * Bestien-Ikas: Ehemaliger thrakischer Heerführer. Durch Kronos in eine Bestie verwandelt.
@@ -59,6 +61,8 @@ exclude: true
     * Mnemosyne
   * Weitere Götter, Titanen, Fabelwesen.
 
+----
+
 ## <a name="was-bisher-geschah"></a>Was bisher geschah
 
 Der thrakische Heerführer Ikas wird vom Blitz getroffen und findet sich im Tartarus wieder. Er begegnet der Allmutter Gaia, die ihn bittet, ihrem Sohn Kronos eine Sichel zu bringen, um sie von den ständigen Nachstellungen ihres Gatten Uranus zu erlösen.
@@ -84,6 +88,8 @@ Sie durchsuchen die Schenken nach Perdix und landen in der Schenke Thermodonion.
 In der Zwischenzeit wird die Schenke von Wachen angegriffen und niedergebrannt. Athene und Aphrodite, die – als Männer verkleidet – in der Schenke zurückgeblieben sind, werden von Perdix gerettet und in sein geheimes Labor gebracht. Bestien-Ikas versucht, die Frauen aus der brennenden Schenke zu retten, wird jedoch von den Wachen erschlagen.
 
 Hades, der die anderen für tot hält, flieht in den Tartarus. Hades, Gaia und Uranus beschließen, das Orakel von Delphi aufzusuchen, um herauszufinden, ob ihr Kampf bereits zu Ende ist – ebenso wie Kronos, der in der Zwischenzeit seine Titanenbrüder um sich versammelt hat und das Orakel befragen möchte, ob er sich noch immer vor der Rache des Bestien-Ikas in Acht nehmen muss ...
+
+----
 
 ## <a name="gesaengekatalog"></a>Gesängekatalog
 ### <a name="erster-gesang"></a>ERSTER GESANG – Orakelspruch und Kriegserklärung
