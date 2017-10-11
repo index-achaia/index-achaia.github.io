@@ -88,9 +88,9 @@ Hades, der die anderen für tot hält, flieht in den Tartarus. Hades, Gaia und U
 ## <a name="gesaengekatalog"></a>Gesängekatalog
 ### <a name="erster-gesang"></a>ERSTER GESANG – Orakelspruch und Kriegserklärung
 
-Thronsaal in Paphos.
+**Thronsaal in Paphos.**
 
-Ein KLEINWÜCHSIGER bearbeitet eine Statue mit Hammer und Meißel. OSTREOS, der oberste Kammerdiener, vor einer Säule. Diverse DIENER und BEDIENSTETE halten sich im Hintergrund.
+*Ein* KLEINWÜCHSIGER *bearbeitet eine Statue mit Hammer und Meißel.* OSTREOS, *der oberste Kammerdiener, vor einer Säule. Diverse* DIENER *und* BEDIENSTETE *halten sich im Hintergrund.*
 
 König Pygmalion zeigt sein überragendes Talent als Bildhauer und seinen wirren Cahrakter. Bestien-Ikas wird herangeführt. König Pygmalion wird wütend, als er feststellt, das Monster nicht in Stein hauen zu können. Der Hauptmann der Wache berichtet von fünf Fremden am Stadttor und dem Amazonen-Aufstand in der Schenke. König Pygmalion lässt die Figur, an der er gerade gearbeitet hat, in den Nebenraum schaffen, um sie “zu vollenden”. Niemand außer Ostreos weiß, was dies bedeutet.
 
