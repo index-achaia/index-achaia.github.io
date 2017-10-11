@@ -90,17 +90,17 @@ Hades, der die anderen für tot hält, flieht in den Tartarus. Hades, Gaia und U
 
 #### Thronsaal in Paphos.
 
-*Ein* KLEINWÜCHSIGER *bearbeitet eine Statue mit Hammer und Meißel.* OSTREOS, *der oberste Kammerdiener, vor einer Säule. Diverse* DIENER *und* BEDIENSTETE *halten sich im Hintergrund.*
+Ein KLEINWÜCHSIGER bearbeitet eine Statue mit Hammer und Meißel. OSTREOS, der oberste Kammerdiener, vor einer Säule. Diverse DIENER und BEDIENSTETE halten sich im Hintergrund.
 
 König Pygmalion zeigt sein überragendes Talent als Bildhauer und seinen wirren Cahrakter. Bestien-Ikas wird herangeführt. König Pygmalion wird wütend, als er feststellt, das Monster nicht in Stein hauen zu können. Der Hauptmann der Wache berichtet von fünf Fremden am Stadttor und dem Amazonen-Aufstand in der Schenke. König Pygmalion lässt die Figur, an der er gerade gearbeitet hat, in den Nebenraum schaffen, um sie “zu vollenden”. Niemand außer Ostreos weiß, was dies bedeutet.
 
-Hang des Parnass. Nacht.
+#### Hang des Parnass. Nacht.
 
 HADES, URANUS und GAIA erscheinen.
 
 Sie stoßen auf den erstarrten Python. Sie vermuten Kronos in der Nähe. Als sie weiterschleichen, erblicken sie die Titanen am Orakel.
 
-Orakel von Delphi.
+#### Orakel von Delphi.
 
 KRONOS, MENOITIOS, KREIOS und ATLAS DER HARTE stehen um die THEMIS versammelt.
 
@@ -112,31 +112,31 @@ Gaia und die anderen flüchten über den Hang des Parnass.
 
 ### <a name="zweiter-gesang"></a>ZWEITER GESANG – Triumph der Toten
 
-Seitengasse mit Blick auf die qualmenden Überreste der Schenke Thermodonion in Paphos. Nacht.
+#### Seitengasse mit Blick auf die qualmenden Überreste der Schenke Thermodonion in Paphos. Nacht.
 
 PERDIX, ATHENE, APHRODITE beobachten das Treiben um die Ruine herum aus einiger Entfernung. WACHEN patrouillieren und durchsuchen die Trümmer.
 
 Perdix nimmt einen Wachmann gefangen und fragt ihn über den Bestien-Ikas aus. Der Wachmann behauptet, Bestien-Ikas sei im Klingenhagel gefallen. Daraufhin tötet Perdix den Wachmann.
 
-Ein paar Gassen später. Statuen verteilen sich über die Gasse.
+#### Ein paar Gassen später. Statuen verteilen sich über die Gasse.
 
 ATHENE, APHRODITE und PERDIX schleichen um eine Ecke.
 
 Aphrodite und Athene bewundern die fast lebensechten Statuen des Königs.
 
-Thronsaal des Pygmalion.
+#### Thronsaal des Pygmalion.
 
 BESTIEN-IKAS in Ketten auf einem Podest. PYGMALION auf seinem Schemel vor einem Steinblock. OSTREOS vor seiner Säule, diverse Bedienstete im Hintergrund.
 
 Askrinos erscheint und berichtet davon, dass Wachen getötet wurden. Er nimmt den Bestien-Ikas ins Verhör. König Pygmalion erweist sich als äußerst angetan von der Bestie. Zu einem vermeintlichen Komplott erfährt Askrinos nichts.
 
-Himmelsfeste.
+#### Himmelsfeste.
 
 KRONOS, MENOITIOS, ATLAS DER HARTE – den bewusstlosen KREIOS tragend – kehren zurück.
 
 Die Titanen kehren vom Kampf mit Python zurück. Sie planen einen Anschlag Gaia, Uranus und Hades. Menoitios und Hyperion machen sich zum Hang des Parnass auf. (Kronos warnt Iapetos im Scherze, dass sein Sohn Menoitios sich nicht gegen ihn wende.) Kronos weist den Schatten an, sich um den verletzten Kreios zu kümmern. Kreios soll die Himmelsfeste während ihrer Abwesenheit bewachen. Kronos und Atlas machen sich nach Paphos auf (warum nach Paphos?), Iapetos und Koios gehen mit dem Dämonenheer in den Tartarus.
 
-Grabhügel außerhalb von Paphos. Nacht.
+#### Grabhügel außerhalb von Paphos. Nacht.
 
 DREI SCHATTEN schleichen durch die Dunkelheit. In der Ferne leuchten die Laternen der patrouillierenden Wachen.
 
@@ -144,31 +144,31 @@ Sie durchsuchen die Gräber nach dem Leichnam des Ikas. Ein Grabräuber taucht a
 
 ### <a name="dritter-gesang"></a>DRITTER GESANG – Der Raub des Daedalus
 
-Thronsaal des Pygmalion.
+#### Thronsaal des Pygmalion.
 
 PYGMALION, mit Hammer und Meißel auf seinem Schemel. BESTIEN-IKAS, kettenlos auf dem Podest. OSTREOS, vor seiner Säule. ASKRINOS, neben ihm. Diverse BEDIENSTETE, DIENER und WACHEN im Hintergrund.
 
 Pygmalion hat die Statue des Bestien-Ikas fertiggestellt. Sie soll in die Stadt geschafft werden. Als Ostreos und Askrinos im Thronsaal allein sind, reagiert Ostreos nicht auf die Avancen des Askrinos. Als Askrinos gerade gehen will, sagt Ostreos zu ihm: “Der Tod zieht heut Nacht durch die Stadt.”
 
-Tartarus.
+#### Tartarus.
 
 KOIOS, IAPETOS, ein Heer von DÄMONEN anführend.
 
 Iapetos und Koios finden den Kopf des Daedalus in der Ritze (die Dämonen/Koios finden den Kopf in der Ritze). Der Kopf flüstert “Lecket mich am Arsche.” Koios nimmt den Kopf mit sich.
 
-Nymphäum zu Kourion auf Zyprus. Ein großes Wasserbecken in der Mitte.
+#### Nymphäum zu Kourion auf Zyprus. Ein großes Wasserbecken in der Mitte.
 
 GAIA, URANUS, HADES, THEMIS erscheinen.
 
 Gaia, Uranus, Hades und Themis retten sich ins Nymphäum auf Kourion. Gaia hat vor, über die Nymphen weiterhin in Paphos wirken zu können und sich gleichzeitig im Nymphäum verstecken zu können. Eine SCHWACHE STIMME aus dem Wasserbecken weist sie an, sich die Stadt anzusehen.
 
-Draußen vor dem Nymphäum. Nacht. Rotes Licht glimmt am Horizont. Um sie herum Ruinen, menschenleere Straßen.
+#### Draußen vor dem Nymphäum. Nacht. Rotes Licht glimmt am Horizont. Um sie herum Ruinen, menschenleere Straßen.
 
 GAIA und URANUS treten vor das Nymphäum.
 
 Sie werden Zeugen einer Belagerung. Die Stadt ist größtenteils zerstört, immer wieder steigen Feuerbälle in den Nachthimmel auf.
 
-Innerhalb des Nymphäums.
+#### Innerhalb des Nymphäums.
 
 URANUS zieht die GAIA hinein. Der gegen eine Wand gelehnte HADES, die über ihn gebeugte THEMIS.
 
@@ -176,43 +176,43 @@ Die schwache Stimme schiebt mit letzter Kraft das Wasserbecken zur Seite und lö
 
 ### <a name="vierter-gesang"></a>VIERTER GESANG – Steinerne Schwüre
 
-Geheimes Labor des Perdix unterhalb der Stadt Paphos.
+#### Geheimes Labor des Perdix unterhalb der Stadt Paphos.
 
 PERDIX, ATHENE, APHRODITE, einige AMAZONEN verteilen sich im Raum.
 
 Perdix, Athene und Aphrodite beraten ihre nächsten Schritte. Perdix erzählt von den tödlichen Instrumenten/Waffen, die er unter seinem Mantel verborgen hält und von denen fünf stets auf die Menschen um ihn herum gerichtet sind. Die Weiber legen ihre Männerverkleidung an. Alle drei machen sich auf in die Schenke, in der der Wachen herumhängen, um sich nach dem Bestien-Ikas umzuhören. Athene und Perdix geraten fast in Disput über die Waffen des Perdix.
 
-Vor der Schenke Söldners bester Schluck in Paphos. Nacht. Warmes Licht fällt durch die Fenster.
+#### Vor der Schenke Söldners bester Schluck in Paphos. Nacht. Warmes Licht fällt durch die Fenster.
 
 PERDIX, ATHENE und APHRODITE schleichen durch eine Seitengasse.
 
 Perdix gibt den Weibern letzte Anweisungen. Vor der Schenke geraten zwei betrunkene Wachen in Streit, gehen jedoch beide durch Selbstverschulden und ohne weitere Schäden zu Boden. Athene hat es sehr eilig, in die Schenke zu kommen und geht als Erste hinein (noch vor Perdix und Aphrodite). Perdix befürchtet, dass er und Aphrodite gleich auf die Athene sehr gut werden achten müssen.
 
-Im Inneren der Schenke Söldners bester Schluck. Gestank nach Schweiß und Fusel. Laute Männerstimmen.
+#### Im Inneren der Schenke Söldners bester Schluck. Gestank nach Schweiß und Fusel. Laute Männerstimmen.
 
 PERDIX und APHRODITE betreten den Schankraum.
 
 Die Athene trinkt bereits Branntwein, als Perdix und Aphrodite die Schenke betreten. Perdix versucht, die Athene mit einer Phiole Betäubungsmittel im Krug einzuschläfern, muss den Krug letztendlich aber selber trinken, worauf er bewusstlos zu Boden geht. Aphrodite stellt Athene zur Rede, ohne daran zu denken, ihre Stimme zu verstellen. Die Männer erkennen sie als Weiber und stürzen sich auf sie. Athene bekommt den Rädelsführer zu packen und kann sie freipressen. Die Männer erkennen sie wieder als diejenigen, die die Schenke Thermodonion verwüstet haben. Athene, Aphrodite und der bewusstlose Perdix flüchten.
 
-Draußen vor der Schenke Söldners bester Schluck. Tumult dröhnt aus dem Inneren.
+#### Draußen vor der Schenke Söldners bester Schluck. Tumult dröhnt aus dem Inneren.
 
 ATHENE. APHRODITE. Der am Boden liegende PERDIX.
 
 Aphrodite stößt auf die Statue des Bestien-Ikas. Perdix erlangt das Bewusstsein zurück. Sie schließen aus der Statue, dass der Bestien-Ikas sich in der Burg und bei König Pygmalion aufhalten muss. Als der Perdix feststellt, dass der Mond bald am höchsten Punkt stehen wird, ergreift er panikartig die Flucht. Athene und Aphrodite sind zunächst irritiert, folgen ihm aber kurz darauf.
 
-Ein paar Gassen weiter.
+#### Ein paar Gassen weiter.
 
 ATHENE, APHRODITE, den PERDIX einholend.
 
 Athene stellt Perdix zur Rede, erfährt aber nicht, wovor er sich so fürchtet. Zuvor hören sie das ersterbende Geschrei ihrer Verfolger sowie ein dämonisches Grollen.
 
-Freier Platz in Paphos am nächsten Morgen.
+#### Freier Platz in Paphos am nächsten Morgen.
 
 Dutzende erschlagene Männer liegen herum. Eine Menschenmenge hat sich gebildet. Aufgeregtes Gemurmel. Zwei GROSSE GESTALTEN IN SCHWARZEN MÄNTELN mischen sich unter das Volk.
 
 Atlas und Kronos betrachten die toten Männer. Sie vermuten, dass Bestien-Ikas hinter der Gewalt steckt. Sie beschließen, später wiederzukommen, um nach Spuren zu suchen.
 
-Thronsaal des Pygmalion.
+#### Thronsaal des Pygmalion.
 
 OSTREOS weist einige Diener ein. ASKRINOS betritt den Saal in großer Aufregung.
 
@@ -220,19 +220,19 @@ Askrinos berichtet Ostreos von den Toten auf dem Platz und den toten Wachen auf 
 
 ### <a name="fuenfter-gesang"></a>FÜNFTER GESANG – In giftig, tiefen Wässern
 
-Unter dem Nymphäum zu Kourion.
+#### Unter dem Nymphäum zu Kourion.
 
 GAIA, URANUS, HADES, THEMIS, die Wasserstufen hinabsteigend. Über ihnen toben noch immer die Erschütterungen der Einschläge.
 
 Unter dem Nymphäum stoßen Gaia, Uranus, Hades und Themis auf einen geschändeten Brunnen. Erinnyen hausen dort unten und berichten von der Rachewut des Skylos, der die Stadt vernichten will für den Verrat des Königs Stesenor, der den Persern 150 Schiffe überließ. Gaia schlägt vor, den Stesenor an Skylos auszuliefern, um ein Blutvergießen zu verhindern. Die Erinnyen weisen sie darauf hin, dass die Stadtbewohner einen letzten Ausfall planen. Über ihnen verstummen die Erschütterungen. Die Erinnyen behaupten, dass sich die Heere wohl schon gegenüberstehen. Gaia beschließt, sich selbst in die Schlacht gegen Skylos zu stürzen. Gaia kann die Erinnyen überreden, ihr bzw. Bestien-Ikas beizustehen, da seine Rachewut um einiges größer als die des Skylos sein dürfte (er hasst die Titanen). Zitat: “Er trägt eure ungeborenen Schwestern in sich.”
 
-Streitmacht des Skylos vor den Toren Kourions.
+#### Streitmacht des Skylos vor den Toren Kourions.
 
 Auf der anderen Seite baut sich ein Heer aus halb verhungerten, kranken oder halb verdursteten STADTBEWOHNERN auf. Darunter ALTE, FRAUEN und KINDER. SKYLOS und sein Hauptmann DELOS in voller Schlachtmontur.
 
 Man erfährt, dass Skylos die Brunnen hat vergiften lassen. Skylos will alle bis zum kleinsten Kind töten. Delos bittet die Götter voller Verzweiflung insgeheim um Vergebung. Sie rücken vor zum Angriff.
 
-Zusammengerotteter Haufen der Bewohner Kourions vor den Stadtmauern.
+#### Zusammengerotteter Haufen der Bewohner Kourions vor den Stadtmauern.
 
 Sie stehen ungeordnet herum und sehen das feindliche Heer auf sich zumarschieren.
 
@@ -240,49 +240,49 @@ Gaia, Uranus, Themis und Hades tauchen mitten im Heer der Stadtbewohner auf. Ura
 
 ### <a name="sechster-gesang"></a>SECHSTER GESANG – Heimlichtuerische Nächte
 
-Ausgang der Schenke Zum Goldenen Talente in Paphos. Die Nacht ist erst wenige Stunden alt.
+#### Ausgang der Schenke Zum Goldenen Talente in Paphos. Die Nacht ist erst wenige Stunden alt.
 
 KRONOS und ATLAS treten durch den Ausgang auf die Straße.
 
 Kronos und Atlas treten aus einer Schenke, in der sie von dem Lösegeld (#eine# Münze) erzählt haben, das sie auf Hinweise auf den Bestien-Ikas ausgesetzt haben. Wenig später tritt schon ein Schatten an sie heran und berichtet von der steinernen Statue des Bestien-Ikas, die er auf dem Platz gesehen haben will, auf dem die toten Männer lagen. Der Schatten schließt daraus, dass König Pygmalion den Bestien-Ikas aus Stein geschlagen haben könnte und sich der Bestien-Ikas aus diesem Grund irgendwo im Palast aufhalten muss.
 
-Prachtgasse zum Palast zu Paphos.
+#### Prachtgasse zum Palast zu Paphos.
 
 Tiefschwarze Nacht. WACHEN stehen vor dem Tor und auf den Zinnen. PERDIX, APHRODITE und ATHENE lugen um eine Häuserecke.
 
 Die Wachen auf und vor der Burg bewegen sich nicht.
 
-Kanalisation zu Paphos.
+#### Kanalisation zu Paphos.
 
 ATHENE. APHRODITE. PERDIX. Um sie herum tropft und tröpfelt es.
 
 Perdix pinkelt in das Waschwasser des Königs. Sie steigen zum Kerker hinauf.
 
-Dunkler Gang.
+#### Dunkler Gang.
 
 PERDIX. ATHENE. APHRODITE. Fackeln spenden ein schwaches Licht.
 
 Sie verstecken sich un belauschen den Kronos und den Atlas in der Dunkelheit. (Zuerst kommen sie an einigen erstarrten Gefangenen vorbei.) Sie beschließen, den beiden in die oberen Stockwerke zu folgen. Perdix montiert sich ein Rohr auf den Arm.
 
-Gang zu den Kerkeranlagen.
+#### Gang zu den Kerkeranlagen.
 
 PERDIX, ATHENE, APHRODITE schleichen durch die Tür zum Kerker. Vor ihnen liegen zwei tote Wachen in ihrem eigenen Blute.
 
 Sie folgen der Spur der toten Wachen.
 
-Erdgeschoss der Burg zu Paphos.
+#### Erdgeschoss der Burg zu Paphos.
 
 PERDIX. ATHENE. APHRODITE. Eine Vielzahl toter WACHEN.
 
 Sie schleichen an weiteren Wachen vorbei. HJinter einer Tür meinen sie, den Bestien-Ikas, Kronos und Atlas zu hören. Perdix beginnt damit, mit seiner ROHR-ARMBRUST + WASSERPFEILEN die Lichter auf dem Gang auszuschießen. Athene soll hineinstürmen und die Titanen fällen.
 
-Gerichtsraum neben dem Thronsaal.
+#### Gerichtsraum neben dem Thronsaal.
 
 KRONOS. ATLAS. BESTIEN-IKAS, in Ketten.
 
 Bestien-Ikas schafft es, die Ketten aus der Wand zu reißen und stürzt sich auf sie. Kronos hält Bestien-Ikas’ Zeitstrahl an und lässt ihn erstarren. Gerade, als sie den Raum verlassen wollen, prescht Athene in den Raum und rennt den Kronos um. Perdix kommt hinterher und zielt mit dem Roh auf seinem Arm auf den Atlas, der noch den Bestien-Ikas auf den Armen trägt. Nach kurzer Verhanadlung darf Atlas den Kronos mit sich nehmen und Athene und Perdix erhalten den Bestien-Ikas zurück. Kurz nachdem Kronos und Atlas den Raum verlassen haben, ertönt auf dem Gang vor der Tür der Schrei der Aphrodite.
 
-Thronsaal vor dem Gerichtsraum.
+#### Thronsaal vor dem Gerichtsraum.
 
 ATLAS. KRONOS, die kreischende und strampelnde APHRODITE über der Schulter tragend.
 
@@ -290,37 +290,37 @@ Kronos und Atlas entführen die Aphrodite. Athene zerstreitet sich mit Perdix un
 
 ### <a name="siebter-gesang"></a>SIEBTER GESANG – Die Kraft des Kronos
 
-Tartarus.
+#### Tartarus.
 
 URANUS, die GAIA tragend. HADES. THEMIS.
 
 Uranus, Themis, Hades entdecken, dass der Kopf des Daedalus nicht mehr in der ritze im Tartarus steckt. Hades macht sich auf, unsichtbar in der Himmelsfeste zu spionieren. (Gaia ist noch immer bewusstlos. Solange wollen Uranus und Themis im Taratarus warten.)
 
-Gang zum Kerker in der Burg zu Paphos.
+#### Gang zum Kerker in der Burg zu Paphos.
 
 Einige tote WACHEN. PYGMALION, über die Toten blickend. OSTREOS. ASKRINOS.
 
 Sie betrachten die toten Wachen. Askrinos vermutet einen Menschen hinter der Tat. Askrinos bietet an, sich in den Untergrund von Paphos einzuschleusen, um nach dem oder den Mördern zu suchen. Der König akzeptiert. Als der König verschwunden ist, kommt Askrinos wieder auf die Bildhauereri des Königs zu sprechen. Als Ostreos ihm deutliche Hinweise zu geben versucht, die letzte Wahrheit aber noch immer nicht ruasrücken will, stürmt Askrinos wütend hinaus und verspricht, sich dem König als Modell/Vorlage anzubieten, um die Wahrheit zu erfahren (die endgültige Wahrheit).
 
-Geheimes Labor des Perdix.
+#### Geheimes Labor des Perdix.
 
 Einige AMAZONEN. PERDIX. BESTIEN-IKAS, noch immer die losgerissenen Ketten an den Handgelenken.
 
 Perdix führt den Ikas in sein Labor, um das Maß für die neuen Schwingen zu nehmen. Unterwegs versucht er, dem Bestien-Ikas einen kurzen Blick in die Rolle des Daedalus abzuluchsen. Bestien-Ikas verweigert ihm diese Bitte vehement (“Erst die Schwingen.”). Darüber hinaus erzählt Perdix dem Bestien-Ikas, dass sie (Perdix und die Amazonen) planen, König Pygmalion abzusetzen (= zu ermorden) und die Stadt zu übernehmen. Paphos soll die erste Stadt werden, die von einer Frau regiert wird. Bestien-Ikas hält nicht allzu viel von dem Plan.
 
-Werkstatt des Perdix.
+#### Werkstatt des Perdix.
 
 PERDIX. BESTIEN-IKAS.
 
 Perdix nimmt Maß am Bestien-Ikas. Als die Nattern nach ihm schnappen, lässt er Bestien-Ikas selbst Maß anlegen. Er empfiehlt Bestien-Ikas zu lernen, die Nattern zu beherrschen und im Kampf einzusetzen. Sie kommen kurz auf die Frau des Daedalus zu sprechen und dass niemand je von ihr gehört zu haben scheint.
 
-Himmelsfeste.
+#### Himmelsfeste.
 
 KRONOS, sich in Albträumen windend.
 
 Kronos windet sich in Albträumen vom Bestien-Ikas. Atlas kommt herbeigeeilt und berichtet von dem Kopf, den Iapetos und Koios aus dem Tartarus mitgebracht haben. Kronos will sich den erwachten Kreios betrachten.
 
-Anderer Teil der Himmelsfeste.
+#### Anderer Teil der Himmelsfeste.
 
 KOIOS. KREIOS. HYPERION. IAPETOS. MENOITIOS. Der SCHATTEN. Sie stehen um etwas herum. Unzählige DÄMONEN flattern umher. APHRODITE, in Ketten gelegt. KRONOS und ATLAS kommen hinzu.
 
@@ -328,43 +328,43 @@ Die Titanen haben nicht die geringste Ahnung, zu welchem Zweck der Kopf sich in 
 
 ### <a name="achter-gesang"></a>ACHTER GESANG – Das Wesen der Macht
 
-Dunkle Gasse in Paphos. Nacht.
+#### Dunkle Gasse in Paphos. Nacht.
 
 Heftiger Regen. Ein SCHATTEN kauert in einer Ecke und tarnt sich. Langsame und gleichmäßige Schritte nähern sich. Ein weiterer SCHATTEN taucht auf und bleibt stehen.
 
 Askrinos verhört einen möglichen Informanten. Drei Nächte und drei Tage will er ihm gewähren, dem Askrinos zu berichten, was er wissen will. Wenn er es schafft, will er den Informanten zu einem reichen Mann machen.
 
-Tartarus.
+#### Tartarus.
 
 URANUS, über der GAIA kauernd. THEMIS. HADES erscheint.
 
 Hades berichtet von dem, was er in der Himmelsfeste gesehen hat. Als sie fast schon die Hoffnung verlieren, erwacht die Gaia und hält eine ergreifende Ansprache. Sie beschließen, nach Paphos zu gehen und nach dem Bestien-Ikas zu suchen – selbst, falls er tot sein sollte.
 
-Geheimes Labor des Perdix.
+#### Geheimes Labor des Perdix.
 
 Ein mächtiges Donnern bringt das Labor zum Erbeben. PERDIX. BESTIEN-IKAS. Einige AMAZONEN.
 
 Die Erde bebt. Bestien-Ikas stürzt sich mit seinen soeben fertig gewordenen und ungetzesteten Schwingen auf das, was immer die Erschütterungen verursacht.
 
-Stadt Paphos. Marktplatz.
+#### Stadt Paphos. Marktplatz.
 
 Reges Treiben. MARKTBESUCHER.
 
 Der Schattenkoloss hält auf Paphos zu. Bestien-Ikas erscheint in der Ferne.
 
-Paphos. An der Stadtmauer.
+#### Paphos. An der Stadtmauer.
 
 SCHATTENKOLOSS, auf die Stadtmauer einschlagend. BESTIEN-IKAS, auf ihn zufliegend.
 
 Der Schattenkoloss schmettert den Bestien-Ikas gegen die Stadtmauer. Der Bestien-Ikas fällt regungslos zu Boden.
 
-Straße nach Paphos. Abenddämmerung.
+#### Straße nach Paphos. Abenddämmerung.
 
 Drei versteinerte DIRNEN. GAIA, URANUS, THEMIS, HADES erscheinen.
 
 Sie erblicken den Schattenkoloss und stürmen vor zum Angriff.
 
-Innerhalb der zerschmetterten Stadtmauern der Stadt Paphos.
+#### Innerhalb der zerschmetterten Stadtmauern der Stadt Paphos.
 
 HADES. URANUS. THEMIS. GAIA. Der SCHATTENKOLOSS mit dem Rücken zu ihnen.
 
@@ -372,37 +372,37 @@ Sie kämpfen gegen den Schattenkoloss. Hades setzt seinen Nekromantengriff ein, 
 
 ### <a name="neunter-gesang"></a>NEUNTER GESANG – Durch das schwarze Todesdunkel
 
-Burgberg über Paphos. Nacht. Blick über die Stadt.
+#### Burgberg über Paphos. Nacht. Blick über die Stadt.
 
 PYGMALION. OSTREOS.
 
 Pygmalion wünscht sich, den Schattenkoloss aus Stein zu hauen. Askrinos weiß nichts Neues zu berichten. Als Askrinos weg ist, erscheint Ostreos und fragt, was Askrinos als Belohnung für sein Tun verlangt. Pygmalion erzählt ihm, dass der Askrinos sich aus Stein hauen lassen möchte und sich nicht von dem Gedanken abbringen ließ. Pygmalion spricht mit Ostreos über seine Zweifel an seinem königlichen Leben. Am liebsten würde er sich selber aus Stein hauen “und das alles beenden.” (“Es ist die Überflüssigkeit, Ostreos, die uns ins Verderben reißt.”)
 
-Himmelsfeste.
+#### Himmelsfeste.
 
 KRONOS. ATLAS. APRHODITE, in Ketten. DAEDALUS-KOPF, von der Faust des KRONOS herabbaumelnd.
 
 Kronos versucht mit Hilfe des Daedalus-Kopfes aus der Aphrodite herauszubekommen, was sie über den Kopf weiß. Als sie sich weiterhin weigert, bindet er den Bart des Kopfes im Nacken der Aphrodite zusammen und lässt ihn ihr vom Halse baumeln wie eine Kette.
 
-Anderer Teil der Himmelsfeste.
+#### Anderer Teil der Himmelsfeste.
 
 KRONOS. ATLAS. Weitere TITANEN.
 
 Atlas stellt den Kronos über den Kopf und sein hartes Vorgehen gegenüber Aphrodite zur Rede. Der Schattenkoloss kehrt zurück und verwandelt sich in den Schatten zurück. Kronos offenbart, dass er seine Finger im spiel hatte, als der Hades den Nekromantengriff einsetzte. Er bezeichnet den Neuen Hades als sein Gegenstück zum Bestien-Ikas.
 
-Wald vor den zerstörten Mauern der Stadt Paphos.
+#### Wald vor den zerstörten Mauern der Stadt Paphos.
 
 URANUS. THEMIS.
 
 Sie treffen auf Pan, einen Sohn des Kronos. Pan sagt, er und sein Vater seien zerstritten miteinander. Die bewachsene Statue des Stein-Ikas steht herum. Er will sich ihnen anschließen. Er zeigt ihnen den Gang, in dem Gaia, Perdix und der Bestien-Ikas verschwunden sind. Nachdem Themis und Uranus den geheimen Gang betreten haben, lässt Pan dein Eingang mit zufallen.
 
-Unterirdischer Gang unter der Stadtmauer.
+#### Unterirdischer Gang unter der Stadtmauer.
 
 Völlige Finsternis. URANUS. THEMIS. Das Flötenspiel des Pan dringt von draußen herein.
 
 Themis wird von Visionen geplagt und wird ohnmächtig. Uranus trägt sie durch die Dunkelheit. Sie werden von Untoten attackiert. Uranus schafft es, sie aus dem Gang nach draußen zu retten.
 
-Grabhügel zu Paphos. Helllichter Tag.
+#### Grabhügel zu Paphos. Helllichter Tag.
 
 URANUS, die bewusstlose THEMIS tragend. UNTOTE starren ihm aus der Gruft hinter zerschmetterten Toren entgegen.
 
@@ -410,7 +410,7 @@ Sie beschließen, Gaia, Perdix und Bestien-Ikas zu suchen. Dazu müssen sie zur�
 
 ### <a name="zehnter-gesang"></a>ZEHNTER GESANG – Nicht vorhandene Verschwörungen
 
-Dunkle Gasse in Paphos. Nacht.
+#### Dunkle Gasse in Paphos. Nacht.
 
 Heftiger Regen. Ein SCHATTEN kauert hinter einem verrammelten Marktstand. Gleichmäßige Schritte nähern sich. Ein weiterer SCHATTEN taucht auf und bleibt stehen.
 
