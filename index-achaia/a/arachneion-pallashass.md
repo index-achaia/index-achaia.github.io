@@ -6,30 +6,28 @@ exclude: true
 ---
 
 ## Inhaltsverzeichnis
-* Personae
-* Zusammenfassung
-* Gesängekatalog
-  * [PROLOGOS – Der Bithynische Eber](/PROLOGOS – Der Bithynische Eber/)
-  * [ERSTER GESANG – Wo Argonauten längst Legenden sind](/ERSTER GESANG – Wo Argonauten längst Legenden sind/)
-  * [ZWEITER GESANG – Die rasenden Rosse des Poseidon](/ZWEITER GESANG – Die rasenden Rosse des Poseidon/)
-  * [DRITTER GESANG – Das Leuchten der Okeaniden](/DRITTER GESANG – Das Leuchten der Okeaniden/)
-  * [VIERTER GESANG – Hadesbrand](/VIERTER GESANG – Hadesbrand/)
-  * [FÜNFTER GESANG – Der Ansturm des Zerberus](/FÜNFTER GESANG – Der Ansturm des Zerberus/)
-  * [SECHSTER GESANG – Im Totenreich](/SECHSTER GESANG – Im Totenreich/)
-  * [SIEBTER GESANG – Die Flechten des Attis](/SIEBTER GESANG – Die Flechten des Attis/)
-  * [ACHTER GESANG – Jenseits des Okeanos](/ACHTER GESANG – Jenseits des Okeanos/)
-  * [ NEUNTER GESANG – Zurück im Hexenhain](/ NEUNTER GESANG – Zurück im Hexenhain/)
-  * [ ZEHNTER GESANG – Drei Schwestern](/ ZEHNTER GESANG – Drei Schwestern/)
-  * [ ELFTER GESANG – Rückweg](/ ELFTER GESANG – Rückweg/)
-  * [ ZWÖLFTER GESANG – Hypaipa](/ ZWÖLFTER GESANG – Hypaipa/)
-  * [ DREIZEHNTER GESANG – Der Wettbewerb](/ DREIZEHNTER GESANG – Der Wettbewerb/)
-  * [ VIERZEHNTER GESANG – Bestiensturm](/ VIERZEHNTER GESANG – Bestiensturm/)
-  * [ EPILOGOS – Der Aar am Firmamente](/ EPILOGOS – Der Aar am Firmamente/)
-* [Historische Ereignisse](/Historische Ereignisse/)
-* [Ausführliches Personenverzeichnis](/Ausführliches Personenverzeichnis/)
-* [Orte, Länder, Flüsse](/Orte, Länder, Flüsse/)
-* [Sonstige Begriffe](/Sonstige Begriffe/)
-* [Easter Eggs](/Easter Eggs/)
+* [Personae](#personae)
+* [Zusammenfassung](#zusammenfassung)
+* [Gesängekatalog](#gesängekatalog)
+  * [PROLOGOS – Der Bithynische Eber](#prologos--der-bithynische-eber)
+  * [ERSTER GESANG – Wo Argonauten längst Legenden sind](#erster-gesang--wo-argonauten-längst-legenden-sind)
+  * [ZWEITER GESANG – Die rasenden Rosse des Poseidon](#zweiter-gesang--die-rasenden-rosse-des-poseidon)
+  * [DRITTER GESANG – Das Leuchten der Okeaniden](#dritter-gesang--das-leuchten-der-okeaniden)
+  * [VIERTER GESANG – Hadesbrand](#vierter-gesang--hadesbrand)
+  * [FÜNFTER GESANG – Der Ansturm des Zerberus](#fünfter-gesang--der-ansturm-des-zerberus)
+  * [SECHSTER GESANG – Im Totenreich](#sechster-gesang--im-totenreich)
+  * [SIEBTER GESANG – Die Flechten des Attis](#siebter-gesang--die-flechten-des-attis)
+  * [ACHTER GESANG – Jenseits des Okeanos](#achter-gesang--jenseits-des-okeanos)
+  * [NEUNTER GESANG – Zurück im Hexenhain](#neunter-gesang--zurück-im-hexenhain)
+  * [ZEHNTER GESANG – Drei Schwestern](#zehnter-gesang--drei-schwestern)
+  * [ELFTER GESANG – Rückweg](#elfter-gesang--rückweg)
+  * [ZWÖLFTER GESANG – Hypaipa](#zwölfter-gesang--hypaipa)
+  * [DREIZEHNTER GESANG – Der Wettbewerb](#dreizehnter-gesang--der-wettbewerb)
+  * [VIERZEHNTER GESANG – Bestiensturm](#vierzehnter-gesang--bestiensturm)
+  * [EPILOGOS – Der Aar am Firmamente](#epilogos--der-aar-am-firmamente)
+* [Historische Ereignisse](#historische-ereignisse)
+* [Ausführliches Personenverzeichnis](#ausführliches-personenverzeichnis)
+* [Easter Eggs](#easter eggs)
 
 ## Personae
 * Menschen und Tiere
