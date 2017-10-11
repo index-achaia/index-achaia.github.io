@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Arachneion Pallashass
+title: Arachneion-Pallashass
 permalink: /arachneion-pallashass/
 exclude: true
 ---
