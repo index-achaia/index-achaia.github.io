@@ -6,26 +6,26 @@ exclude: true
 ---
 
 ## Inhaltsverzeichnis
-* Personae
-* Gesängekatalog
-  * ERSTER GESANG – Der Tod des Ikas
-  * ZWEITER GESANG – Die Entmannung des Uranus
-  * DRITTER GESANG – Die Verschlingung der Kroniden
-  * VIERTER GESANG – Die Befreiung des Daedalus
-  * FÜNFTER GESANG – Erste Titanenheerschau und Orakelspruch
-  * SECHSTER GESANG – Die Enthauptung des Daedalus
-  * SIEBTER GESANG – Die Urgewalt der Athene und finsterstes Schwören
-  * ACHTER GESANG – Verrat und Harpyiensturm
-  * NEUNTER GESANG – Nach Paphos
-  * ZEHNTER GESANG – Titanendämmerung
-* Historische Ereignisse
-* Ausführliches Personenverzeichnis
-* Easter Eggs
-* Vorsätzliche Verstöße gegen Rechtschreibung & Grammatik
-* Fahrlässige Verstöße gegen Rechtschreibung & Grammatik
-
+* [Personae](/personae/)
+* [Gesängekatalog](/gesängekatalog/)
+  * [ERSTER GESANG – Der Tod des Ikas](/#erster-gesang-–der-tod-des-ikas/)
+  * [ZWEITER GESANG – Die Entmannung des Uranus](/#zweiter-gesang-–die-entmannung-des-uranus/)
+  * [DRITTER GESANG – Die Verschlingung der Kroniden](/dritter-gesang-–die-verschlingung-der-kroniden/)
+  * [VIERTER GESANG – Die Befreiung des Daedalus](/vierter-gesang-–die-befreiung-des-daedalus/)
+  * [FÜNFTER GESANG – Erste Titanenheerschau und Orakelspruch](/fünfter-gesang-–erste-titanenheerschau-und-orakelspruch/)
+  * [SECHSTER GESANG – Die Enthauptung des Daedalus](/sechster-gesang-–die-enthauptung-des-daedalus/)
+  * [SIEBTER GESANG – Die Urgewalt der Athene und finsterstes Schwören](/siebter-gesang-–die-urgewalt-der-athene-und-finsterstes-schwören/)
+  * [ACHTER GESANG – Verrat und Harpyiensturm](/achter-gesang-–verrat-und-harpyiensturm/)
+  * [NEUNTER GESANG – Nach Paphos](/neunter-gesang-–nach-paphos/)
+  * [ZEHNTER GESANG – Titanendämmerung](/zehnter-gesang-–titanendämmerung/)
+* [Historische Ereignisse](/historische-ereignisse/)
+* [Ausführliches Personenverzeichnis](/ausführliches-personenverzeichnis/)
+* [Easter Eggs](/easter-eggs/)
+* [Vorsätzliche Verstöße gegen Rechtschreibung & Grammatik](/vorsätzliche-verstöße-gegen-rechtschreibung--grammatik/)
+* [Fahrlässige Verstöße gegen Rechtschreibung & Grammatik](/fahrlässige-verstöße-gegen-rechtschreibung--grammatik/)
 
 Die Titanomachie in epischer Neuerzählung.
+
 Klappentext
 
 DIE GEBURT DER BESTIE!
