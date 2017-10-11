@@ -457,9 +457,23 @@ Too much to mention ...
 
 ### 1. Auflage
 
-* S. 89 Uranus URANUS (sie eine Weile betrachtend, dann kopfschüttelnd).
-* S. 256 (Er macht auf dem Absatz kehrt und marschiert aus dem Raum. Hauptmann der Wache ab.) -> Sie stehen auf dem Burgberg. Der Burgberg ist kein geschlossener Raum.
-* S. 260 KRONOS, ATLAS, ~~APRHODITE~~ APHRODITE, in Ketten. DAEDALUS-KOPF, von der Faust des KRONOS herabbaumelnd.
+* S. 89
+
+> ~~Uranus~~ URANUS (sie eine Weile betrachtend, dann kopfschüttelnd).
+
+Fehler: Formatierung.
+
+* S. 256
+
+> (Er macht auf dem Absatz kehrt und marschiert aus dem Raum. Hauptmann der Wache ab.)
+
+Fehler: Sie stehen auf dem Burgberg. Der Burgberg ist kein geschlossener Raum.
+
+* S. 260
+
+> KRONOS, ATLAS, ~~APRHODITE~~ APHRODITE, in Ketten. DAEDALUS-KOPF, von der Faust des KRONOS herabbaumelnd.
+
+Fehler: Typo.
 
 ## <a name="offene-handlungsstraenge"></a>Offene Handlungsstränge
 
