@@ -31,31 +31,31 @@ exclude: true
 
 ## Personae
 * Menschen und Tiere
-    Asklepios: Legendärer Heiler und Teilnehmer der Argonautenfahrt.
-    Idmon: Legendärer Seher. Argonaut und Vater der Arachne.
-    Iason: Sohn des Aison. Anführer der Argonauten.
-    Arachne: Tochter des Idmon.
-    Colydon: Ziege der Arachne.
+  * [Asklepios](/asklepios/): Legendärer Heiler und Teilnehmer der Argonautenfahrt.
+  * [Idmon](/idmon/): Legendärer Seher. Argonaut und Vater der Arachne.
+  * [Iason](/iason/): Sohn des Aison. Anführer der Argonauten.
+  * [Arachne](/arachne/): Tochter des Idmon.
+  * [Colydon](/colydon/): Ziege der Arachne.
 * Götter
-    Zeus: Göttervater und oberster Gott.
-    Hera: Seine eifersüchtige Gattin.
-    Hades: Herrscher über das Totenreich.
-    Poseidon: Gott des Meeres.
-    Athene: Göttin der Weisheit, der Kunst und des Handwerks.
+  * [Zeus](/zeus/): Göttervater und oberster Gott.
+  * [Hera](/hera/): Seine eifersüchtige Gattin.
+  * [Hades](/hades/): Herrscher über das Totenreich.
+  * [Poseidon](/poseidon/): Gott des Meeres.
+  * [Athene](/athene/): Göttin der Weisheit, der Kunst und des Handwerks.
 * Sonstige Begriffe und Fabelwesen
-    Kroniden: Kinder des Kronos.
-        Zeus
-        Hades
-        Poseidon
-        Hera
-        Hestia
-        Demeter
-    Moiren: Schicksalsgöttinnen.
-        Klotho
-        Lachesis
-        Atropos
-    Aisonide: Kind des Aison (Iason).
-* Weitere Götter und Fabelwesen.
+  * [Kroniden](/kroniden/): Kinder des Kronos.
+    * [Zeus](/zeus/)
+    * [Hades](/hades/)
+    * [Poseidon](/poseidon/)
+    * [Hera](/hera/)
+    * [Hestia](/hestia/)
+    * [Demeter](/demeter/)
+  * [Moiren](/moiren/): Schicksalsgöttinnen.
+    * [Klotho](/klotho/)
+    * [Lachesis](/lachesis/)
+    * [Atropos](/atropos/)
+  * [Aisonide](/aisonide/): Kind des Aison (Iason).
+* Weitere [Götter](/goetter/) und [Fabelwesen](/fabelwesen/).
 
 ## Zusammenfassung
 
@@ -879,128 +879,24 @@ Zeus erscheint dem Asklepios unerkannt. In der Ferne taucht der Hades auf und er
 
 ## Historische Ereignisse
 
-    Untergang der Stadt Kolophon
-    Ermordung des Hades
-    Aufstand der Toten
-    Ermordung der drei Richter
-    Tod des Hermes
-    Verstümmelung der Atropos
-
+* [Untergang der Stadt Kolophon](/untergang-der-stadt-kolophon/)
+* [Ermordung des Hades](/ermordung-des-hades/)
+* [Aufstand der Toten](/aufstand-der-toten/)
+* [Ermordung der drei Richter](/ermordung-der-drei-richter/)
+* [Tod des Hermes](/tod-des-hermes/)
+* [Verstümmelung der Atropos](/verstuemmelung-der-atropos/)
+    
 ## Ausführliches Personenverzeichnis
 
-    Agdistis
-    Aiakos
-    Aitnaios
-    Alkon
-    Apollon
-    Arachne
-    Asklepios
-    Athene
-    Atropos
-    Attis
-    Autolykos
-    Cassandros
-    Charon
-    Cheiron
-    Colydon
-    Damistokles
-    Echidna
-    Erebos
-    Eribotes
-    Essokles
-    Eurymedon
-    Hades
-    Harpokrates
-    Hera
-    Herakles
-    Hermes
-    Hippolaya
-    Iason
-    Idas
-    Idmon
-    Ikariod
-    Ixmos
-    Kanthos
-    Klotho
-    Klytios
-    Kronos
-    Kybele
-    Lachesis
-    Minos
-    Mopsos
-    Okeanos
-    Onnes
-    Orke
-    Padmilos
-    Peleus
-    Pondros
-    Poseidon
-    Rhadamanthys
-    Sisyphus
-    Teiresias
-    Thanatos
-    Thraphes
-    Tiphys
-    Zeus
+[Agdistis](/agdistis/) · [Aiakos](/aiakos/) · [Aitnaios](/aitnaios/) · [Alkon](/alkon/) · [Apollon](/apollon/) · [Arachne](/arachne/) · [Asklepios](/asklepios/) · [Athene](/athene/) · [Atropos](/atropos/) · [Attis](/attis/) · [Autolykos](/autolykos/) · [Cassandros](/cassandros/) · [Charon](/charon/) · [Cheiron](/cheiron/) · [Colydon](/colydon/) · [Damistokles](/damistokles/) · [Echidna](/echidna/) · [Erebos](/erebos/) · [Eribotes](/eribotes/) · [Essokles](/essokles/) · [Eurymedon](/eurymedon/) · [Hades](/hades/) · [Harpokrates](/harpokrates/) · [Hera](/hera/) · [Herakles](/herakles/) · [Hermes](/hermes/) · [Hippolaya](/hippolaya/) · [Iason](/iason/) · [Idas](/idas/) · [Idmon](/idmon/) · [Ikariod](/ikariod/) · [Ixmos](/ixmos/) · [Kanthos](/kanthos/) · [Klotho](/klotho/) · [Klytios](/klytios/) · [Kronos](/kronos/) · [Kybele](/kybele/) · [Lachesis](/lachesis/) · [Minos](/minos/) · [Mopsos](/mopsos/) · [Okeanos](/okeanos/) · [Onnes](/onnes/) · [Orke](/orke/) · [Padmilos](/padmilos/) · [Peleus](/peleus/) · [Pondros](/pondros/) · [Poseidon](/poseidon/) · [Rhadamanthys](/rhadamanthys/) · [Sisyphus](/sisyphus/) · [Teiresias](/teiresias/) · [Thanatos](/thanatos/) · [Thraphes](/thraphes/) · [Tiphys](/tiphys/) · [Zeus](/zeus/)
 
 ### Orte, Länder, Flüsse
 
-    Aipos
-    Äolische Straße
-    Bithynien
-    Demeters Tropfen
-    Festung des Hades
-    Hadesfestung
-    Halle der Richter
-    Herakleia Pontike
-    Hexenhain
-    Hypaipa
-    Insel der Moiren
-    Kap Tainaron
-    Kokytos
-    Kolophon
-    Lethe
-    Lydien
-    Macedonia
-    Myrina
-    Orakel von Klaros
-    Orakelhain (Olymp)
-    Olymp
-    Samothrake
-    Sangarios
-    Zum Kalydonischen Eber
+[Aipos](/aipos/) · [Äolische Straße](/aeolische-strasse/) · [Bithynien](/bithynien/) · [Demeters Tropfen](/demeters-tropfen/) · [Festung des Hades](/festung-des-hades/) · [Hadesfestung](/hadesfestung/) · [Halle der Richter](/halle-der-richter/) · [Herakleia Pontike](/herakleia-pontike/) · [Hexenhain](/hexenhain/) · [Hypaipa](/hypaipa/) · [Insel der Moiren](/insel-der-moiren/) · [Kap Tainaron](/kap-tainaron/) · [Kokytos](/kokytos/) · [Kolophon](/kolophon/) · [Lethe](/lethe/) · [Lydien](/lydien/) · [Macedonia](/macedonia/) · [Myrina](/myrina/) · [Orakel von Klaros](/orakel-von-klaros/) · [Orakelhain (Olymp)](/orakelhain-olymp/) · [Olymp](/olymp/) · [Samothrake](/samothrake/) · [Sangarios](/sangarios/) · [Zum Kalydonischen Eber](/zum-kalydonischen-eber/)
 
 ### Sonstige Begriffe
 
-    Aether
-    Agora
-    Armageddon
-    Augentrost
-    Blutschau
-    Bugspriet
-    Eiche von Dodona
-    Euphrasia
-    Fach (Weberei)
-    Fibel
-    Hadesbrand
-    Hindinnenblut
-    Hoplit
-    Ketos
-    Kolophonium
-    Krater
-    Kriegergriff
-    Lebensfaden
-    Leviathan
-    Moiren
-    Moirenblut
-    Mysterien
-    Okeaniden
-    Pallas
-    Runkse
-    Schiff (Weberei)
-    Schütze (Weberei)
-    Schwarzer König
-    Zerberus
+[Aether](/aether/) · [Agora](/agora/) · [Armageddon](/armageddon/) · [Augentrost](/augentrost/) · [Blutschau](/blutschau/) · [Bugspriet](/bugspriet/) · [Eiche von Dodona](/eiche-von-dodona/) · [Euphrasia](/euphrasia/) · [Fach (Weberei)](/fach-weberei/) · [Fibel](/fibel/) · [Hadesbrand](/hadesbrand/) · [Hindinnenblut](/hindinnenblut/) · [Hoplit](/hoplit/) · [Ketos](/ketos/) · [Kolophonium](/kolophonium/) · [Krater](/krater/) · [Kriegergriff](/kriegergriff/) · [Lebensfaden](/lebensfaden/) · [Leviathan](/leviathan/) · [Moiren](/moiren/) · [Moirenblut](/moirenblut/) · [Mysterien](/mysterien/) · [Okeaniden](/okeaniden/) · [Pallas](/pallas/) · [Runkse](/runkse/) · [Schiff (Weberei)](/schiff-weberei/) · [Schütze (Weberei)](/schuetze-weberei/) · [Schwarzer König](/schwarzer-koenig/) · [Zerberus](/zerberus/)
 
 ## Easter Eggs
 
@@ -1009,13 +905,9 @@ ZWÖLFTER GESANG – Hypaipa
 Haus der Orke
 
     Ich sollte es wohl lassen,
-
     aber den Göttern sei Dank
-
     ist mein Wille schwach.
-
     ALTE FRAU
-
     Der Exorzist. Warner Bros. 1973 und 2000 (neue Version).
 
 EPILOGOS – Der Aar am Firmamente
@@ -1023,9 +915,6 @@ EPILOGOS – Der Aar am Firmamente
 Anhöhe außerhalb der Stadt Hypaipa.
 
     Und meide er das fette Essen,
-
     es ist ihm nie sehr gut bekommen.
-
     WANDERER
-
     Monty Pythons Der Sinn des Lebens. Universal Pictures 1983.
