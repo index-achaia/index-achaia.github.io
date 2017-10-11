@@ -516,7 +516,7 @@ Too much to mention …
 * Daedalus’ Letzter Wille (Schriftrolle).
 * Askrinos’ Aufklärung der Verschwörung und sein Wunsch nach Unsterblichkeit.
 * Uranus’ Rache an Pan.
-* Uranus’ und Tehmis’ Suche nach Gaia, Perdix und Bestien-Ikas.
+* Uranus’ und Themis’ Suche nach Gaia, Perdix und Bestien-Ikas.
 * Erwachen der Toten in Paphos.
 * Verschlingung der Kroniden.
 * Hekatoncheiren und Kyklopen im Leib der Gaia.
