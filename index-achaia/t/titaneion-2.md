@@ -88,7 +88,7 @@ Hades, der die anderen für tot hält, flieht in den Tartarus. Hades, Gaia und U
 ## <a name="gesaengekatalog"></a>Gesängekatalog
 ### <a name="erster-gesang"></a>ERSTER GESANG – Orakelspruch und Kriegserklärung
 
-**Thronsaal in Paphos.**
+#### Thronsaal in Paphos.
 
 *Ein* KLEINWÜCHSIGER *bearbeitet eine Statue mit Hammer und Meißel.* OSTREOS, *der oberste Kammerdiener, vor einer Säule. Diverse* DIENER *und* BEDIENSTETE *halten sich im Hintergrund.*
 
