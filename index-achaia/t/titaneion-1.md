@@ -334,7 +334,7 @@ Der Schatten berichtet dem Schatten vom Einsturz der Schenke. Kronos ist mit den
 
 ### Orte, Länder, Flüsse
 
-[Athen](/athen/) · [Attika](/attika/) · [Euböa](/euböa/) · [Himmelsfeste des Uranus](/himmelsfeste-des-uranus/) · [Olymp](/olymp/) · [Orakel von Delphi](/orakel-von-delphi/) · [Paphos](/paphos/) · [Parnass](/parnass/) · [Quelle des Lyäus (Schenke)](/quelle-des-lyaeus/) · [Salamis (Insel)](/salamis-insel)/) · [Salamis (Zypern)](/salamis-zypern/) · [Tartarus](/tartarus/) · [Thermodonion (Schenke)](/thermodonion/) · [Thrakien](/thrakien/) · [Zum Titanischen Trunke (Schenke)](/zum-titanischen-trunke/) · [Zyprus](/zyprus/)
+[Athen](/athen/) · [Attika](/attika/) · [Euböa](/euböa/) · [Himmelsfeste des Uranus](/himmelsfeste-des-uranus/) · [Olymp](/olymp/) · [Orakel von Delphi](/orakel-von-delphi/) · [Paphos](/paphos/) · [Parnass](/parnass/) · [Quelle des Lyäus (Schenke)](/quelle-des-lyaeus/) · [Salamis (Insel)](/salamis-insel/) · [Salamis (Zypern)](/salamis-zypern/) · [Tartarus](/tartarus/) · [Thermodonion (Schenke)](/thermodonion/) · [Thrakien](/thrakien/) · [Zum Titanischen Trunke (Schenke)](/zum-titanischen-trunke/) · [Zyprus](/zyprus/)
 
 ### Sonstige Begriffe
 
