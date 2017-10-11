@@ -134,7 +134,7 @@ Askrinos erscheint und berichtet davon, dass Wachen getötet wurden. Er nimmt de
 
 KRONOS, MENOITIOS, ATLAS DER HARTE – den bewusstlosen KREIOS tragend – kehren zurück.
 
-Die Titanen kehren vom Kampf mit Python zurück. Sie planen einen Anschlag Gaia, Uranus und Hades. Menoitios und Hyperion machen sich zum Hang des Parnass auf. (Kronos warnt Iapetos im Scherze, dass sein Sohn Menoitios sich nicht gegen ihn wende.) Kronos weist den Schatten an, sich um den verletzten Kreios zu kümmern. Kreios soll die Himmelsfeste während ihrer Abwesenheit bewachen. Kronos und Atlas machen sich nach Paphos auf (warum nach Paphos?), Iapetos und Koios gehen mit dem Dämonenheer in den Tartarus.
+Die Titanen kehren vom Kampf mit Python zurück. Sie planen einen Anschlag Gaia, Uranus und Hades. Menoitios und Hyperion machen sich zum Hang des Parnass auf. (Kronos warnt Iapetos im Scherze, dass sein Sohn Menoitios sich nicht gegen ihn wende.) Kronos weist den Schatten an, sich um den verletzten Kreios zu kümmern. Kreios soll die Himmelsfeste während ihrer Abwesenheit bewachen. Kronos und Atlas machen sich nach Paphos auf, Iapetos und Koios gehen mit dem Dämonenheer in den Tartarus.
 
 #### Grabhügel außerhalb von Paphos. Nacht.
 
