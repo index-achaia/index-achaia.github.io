@@ -70,9 +70,7 @@ Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/
 
 ## <a name="T">T</a>
 
-[Tartarus](/tartarus/) · [Tethys](/tethys/) · [Theia](/theia/) · [Themis](/themis/) · [Thermodon](/thermodon/) · [Thermodonion](/thermodonion/) · [Thrakien](/thrakien/)
-
-* [Titaneion-Titanenschlacht Episoda 2: Kolossansturm](/titaneion-2/)
+[Tartarus](/tartarus/) · [Tethys](/tethys/) · [Theia](/theia/) · [Themis](/themis/) · [Thermodon](/thermodon/) · [Thermodonion](/thermodonion/) · [Thrakien](/thrakien/) · [Titaneion-Titanenschlacht Episoda 2: Kolossansturm](/titaneion-2/)
 
 ## <a name="U">U</a>
 
