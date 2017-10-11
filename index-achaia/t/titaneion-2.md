@@ -4,8 +4,18 @@ title: ! 'Titaneion-Titanenschlacht Episoda 2: Kolossansturm'
 permalink: /titaneion-2/
 exclude: true
 ---
+## Inhaltsverzeichnis
+* [Personae](#personae)
+* [Was bisher geschah](#was-bisher-geschah)
+* [Gesängekatalog](#gesaengekatalog)
+* [Ausführliches Personenverzeichnis](#personenverzeichnis)
+* [Easter Eggs](#easter-eggs)
+* [Zitate](#zitate)
+* [Vorsätzliche Verstöße gegen Rechtschreibung & Grammatik](#vorsaetzliche-verstoesse)
+* [Fahrlässige Verstöße gegen Rechtschreibung, Formatierung, Grammatik, Logik](#fahrlaessige-verstoesse)
+* [Offene Handlungsstränge](#offene-handlungsstraenge)
 
-## Personae
+## <a name="personae"></a>Personae
 ### Monster und Menschen
 
 * Bestien-Ikas: Ehemaliger thrakischer Heerführer. Durch Kronos in eine Bestie verwandelt.
@@ -46,7 +56,7 @@ exclude: true
 
 ### Weitere Götter, Titanen, Fabelwesen.
 
-## Was bisher geschah
+## <a name="was-bisher-geschah"></a>Was bisher geschah
 
 Der thrakische Heerführer Ikas wird vom Blitz getroffen und findet sich im Tartarus wieder. Er begegnet der Allmutter Gaia, die ihn bittet, ihrem Sohn Kronos eine Sichel zu bringen, um sie von den ständigen Nachstellungen ihres Gatten Uranus zu erlösen.
 
@@ -72,7 +82,7 @@ In der Zwischenzeit wird die Schenke von Wachen angegriffen und niedergebrannt. 
 
 Hades, der die anderen für tot hält, flieht in den Tartarus. Hades, Gaia und Uranus beschließen, das Orakel von Delphi aufzusuchen, um herauszufinden, ob ihr Kampf bereits zu Ende ist – ebenso wie Kronos, der in der Zwischenzeit seine Titanenbrüder um sich versammelt hat und das Orakel befragen möchte, ob er sich noch immer vor der Rache des Bestien-Ikas in Acht nehmen muss ...
 
-## Gesängekatalog
+## <a name="gesaengekatalog"></a>Gesängekatalog
 ### ERSTER GESANG – Orakelspruch und Kriegserklärung
 
 Thronsaal in Paphos.
@@ -403,7 +413,7 @@ Heftiger Regen. Ein SCHATTEN kauert hinter einem verrammelten Marktstand. Gleich
 
 Askrinos trifft seinen Informanten. Nachdem der Informant ihm berichtet, dass es keine Verschwörung in der Stadt gibt (vielmehr hält der Untote für die Übeltäter), lässt Askrinos ihn töten. Mit seinen letzten Worten schwört der Informant, sich an ihm zu rächen. Egal, ob tot, lebendig oder untot.
 
-Ausführliches Personenverzeichnis
+## <a name="personenverzeichnis"></a>Ausführliches Personenverzeichnis
 
     Aphrodite
     Athene
@@ -439,11 +449,11 @@ Ausführliches Personenverzeichnis
     Uranus
     Zeus
 
-Tiere, Bestien, Fabelwesen
+### Tiere, Bestien, Fabelwesen
 
     Python
 
-Orte, Länder, Flüsse
+### Orte, Länder, Flüsse
 
     Athen
     Attika
@@ -459,9 +469,7 @@ Orte, Länder, Flüsse
     Thrakien
     Zyprus
 
-Sonstige Begriffe
-
-## Easter Eggs
+## <a name="easter-eggs"></a>Easter Eggs
 ### ZWEITER GESANG – Triumph der Toten
 
 Der Titel ist eine Hommage an ein Album der Band Hellhammer:
@@ -477,17 +485,17 @@ Innerhalb des Nymphäums.
 
     Goethe. Faust I.
 
-## Zitate
+## <a name="zitate"></a>Zitate
 ### ZWEITER GESANG – Triumph der Toten Grabhügel außerhalb von Paphos. Nacht.
 
     Schnell, voran zum Klingenhack!
     DRITTE WACHE
 
-## Vorsätzliche Verstöße gegen Rechtschreibung & Grammatik
+## <a name="vorsaetzliche-verstoesse"></a>Vorsätzliche Verstöße gegen Rechtschreibung & Grammatik
 
 Too much to mention …
 
-## Fahrlässige Verstöße gegen Rechtschreibung, Formatierung, Grammatik, Logik
+## <a name="fahrlaessige-verstoesse"></a>Fahrlässige Verstöße gegen Rechtschreibung, Formatierung, Grammatik, Logik
 
 ### 1. Auflage
 
@@ -495,7 +503,7 @@ Too much to mention …
 * S. 256 (Er macht auf dem Absatz kehrt und marschiert aus dem Raum. Hauptmann der Wache ab.) -> Sie stehen auf dem Burgberg. Der Burgberg ist kein geschlossener Raum.
 * S. 260 KRONOS, ATLAS, APRHODITE APHRODITE, in Ketten. DAEDALUS-KOPF, von der Faust des KRONOS herabbaumelnd.
 
-## Offene Handlungsstränge
+## <a name="offene-handlungsstraenge"></a>Offene Handlungsstränge
 
 * Athenes Rache an Zeus und Verbleib der Athene.
 * Entführung der Rhea.
