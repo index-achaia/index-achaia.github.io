@@ -418,59 +418,14 @@ Askrinos trifft seinen Informanten. Nachdem der Informant ihm berichtet, dass es
 
 ## <a name="personenverzeichnis"></a>Ausführliches Personenverzeichnis
 
-    Aphrodite
-    Athene
-    Atlas
-    Bestien-Ikas
-    Briareos
-    Daedalus
-    Demeter
-    Gaia
-    Gyges
-    Hades
-    Hera
-    Hestia
-    Hyperion
-    Iapetos
-    Ikas
-    Koios
-    Kottos
-    Kreios
-    Kronos
-    Kronospriester
-    Menoitios
-    Mnemosyne
-    Okeanos
-    Perdix
-    Phoibe
-    Poseidon
-    Rhea
-    Schatten des Kronospriesters
-    Tethys
-    Theia
-    Themis
-    Uranus
-    Zeus
+[Aphrodite](/aphrodite/) · [Athene](/athene/) · [Atlas](/atlas/) · [Bestien-Ikas](/bestien-ikas/) · [Briareos](/briareos/) · [Daedalus](/daedalus/) · [Demeter](/demeter/) · [Gaia](/gaia/) · [Gyges](/gyges/) · [Hades](/hades/) · [Hera](/hera/) · [Hestia](/hestia/) · [Hyperion](/hyperion/) · [Iapetos](/iapetos/) · [Ikas](/ikas/) · [Koios](/koios/) · [Kottos](/kottos/) · [Kreios](/kreios/) · [Kronos](/kronos/) · [Kronospriester](/kronospriester/) · [Menoitios](/menoitios/) · [Mnemosyne](/mnemosyne/) · [Okeanos](/okeanos/) · [Perdix](/perdix/) · [Phoibe](/phoibe/) · [Poseidon](/poseidon/) · [Rhea](/rhea/) · [Schatten des Kronospriesters](/schatten-des-kronospriesters/) · [Tethys](/tethys/) · [Theia](/theia/) · [Themis](/themis/) · [Uranus](/uranus/) · [Zeus](/zeus/)
 
 ### Tiere, Bestien, Fabelwesen
 
-    Python
+[Python](/python/)
 
 ### Orte, Länder, Flüsse
-
-    Athen
-    Attika
-    Himmelsfeste des Uranus
-    Olymp
-    Orakel von Delphi
-    Paphos
-    Parnass
-    Salamis
-    Tartarus
-    Thermodon (Fluss)
-    Thermodonion (Schenke)
-    Thrakien
-    Zyprus
+[Athen](/athen/) · [Attika](/attika/) · [Himmelsfeste des Uranus](/himmelsfestung-des-uranus/) · [Olymp](/olymp/) · [Orakel von Delphi](/orakel-von-delphi/) · [Paphos](/paphos/) · [Parnass](/parnass/) · [Salamis](/salamis/) · [Tartarus](/tartarus/) · [Thermodon (Fluss)](/thermodon/) · [Thermodonion](/thermodonion/) · [Thrakien](/thrakien/) · [Zyprus](/zyprus/)
 
 ## <a name="easter-eggs"></a>Easter Eggs
 ### ZWEITER GESANG – Triumph der Toten
