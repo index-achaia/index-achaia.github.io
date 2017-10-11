@@ -27,7 +27,7 @@ exclude: true
   * [EPILOGOS – Der Aar am Firmamente](#epilogos--der-aar-am-firmamente)
 * [Historische Ereignisse](#historische-ereignisse)
 * [Ausführliches Personenverzeichnis](#ausführliches-personenverzeichnis)
-* [Easter Eggs](#easter eggs)
+* [Easter Eggs](#easter-eggs)
 
 ## Personae
 * Menschen und Tiere
