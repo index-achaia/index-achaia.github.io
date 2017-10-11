@@ -23,33 +23,18 @@ exclude: true
 * [Easter Eggs](/#easter-eggs/)
 * [Vorsätzliche Verstöße gegen Rechtschreibung & Grammatik](/#vorsätzliche-verstöße-gegen-rechtschreibung--grammatik/)
 * [Fahrlässige Verstöße gegen Rechtschreibung & Grammatik](/#fahrlässige-verstöße-gegen-rechtschreibung--grammatik/)
-
-Die Titanomachie in epischer Neuerzählung.
-
-Klappentext
-
-DIE GEBURT DER BESTIE!
-
-    Oh Götter!
-    So stehn wir hier im Kriegesrausch
-    und morden uns,
-    um grausamst Götter Todesdurst
-    ein weitres schrecklich Mal zu stillen.
-    IKAS
-    Thrakischer Heerführer 
-
-Was als siegreiche Schlacht beginnt, endet für den thrakischen Heerführer Ikas im Tartarus. Sein Spott gegen die Götter ist es, der den Göttervater selbst auf den Plan ruft. In den finsteren Klüften angekommen, wird Ikas zum Spielball uralter Mächte. Uralter Mächte, die noch eine Rechnung miteinander zu begleichen haben. Doch Rache und Intrige führen zu etwas, das keine der involvierten Mächte vorhergesehen hat: Zur Geburt einer Bestie, vor deren Wut sich selbst Titanen in Acht nehmen müssen …
+* [Siehe auch](/#siehe-auch/)
 
 ## Personae
-* Menschen
+* [Menschen](/menschen/)
   * [Ikas](/ikas/): Thrakischer Heerführer.
   * [Pandrinos](/pandrinos/): Hauptmann des Ikas.
   * [Sandrias](/sandrias/): Weiterer Kampfgefährte des Ikas.
-* Protogenoi und Titanen
+* [Protogenoi](/protogenoi/) und [Titanen](/titanen/)
   * [Gaia](/gaia/): Die Allmutter. Uranus trieb ihr die Kyklopen und Hekatoncheiren in den Leib.
   * [Uranus](/uranus/): Verkörperung des Himmels. Gatte der Gaia.
   * [Kronos](/kronos/): Der Krumme. Jüngster Sohn des Uranus und der Gaia. Vom Vater verstoßen.
-* Sonstige Begriffe und Fabelwesen
+* Sonstige Begriffe und [Fabelwesen](/fabelwesen/)
   * [Kyklopen](/kyklopen/): Einäugige Riesen.
   * [Hekatoncheiren](/hekatoncheiren/): Riesen mit hundert Armen und fünfzig Köpfen.
   * [Kroniden](/kroniden/): Kinder des Kronos.
@@ -161,21 +146,21 @@ Sämtliche Kinder des Uranus und der Gaia.
 Kronos sieht den Ikas mit Metallflügeln. Er sieht sich im Orakelbecken mit einem seltsamen Wesen ringen (Dampf etc.). Götter kämpfen. Er erblickt ein Laboratorum, Flügel mit Wachs hängen an der Wand. Sie erkennen den Daedalus und hören den doppeltönigen Wind. Sie schließen daraus, dass sich das gezeigte Labor auf Attika befinden muss. Auch Bestien-Ikas ist im Labor zu sehen, die Flügel nur noch Stümpfe. Er fragt jeden einzelnen Titanen nach seiner Unterstützung.
 
 Es schließen sich ihm an:
-* Kreios
-* Iapetos
-* Koios
-* Hyperion
-* Atlas der Harte
-* Menoitios
+* [Kreios](/kreios/)
+* [Iapetos](/iapetos/)
+* [Koios](/koios/)
+* [Hyperion](/hyperion/)
+* [Atlas der Harte](/atlas/)
+* [Menoitios](/menoitios/)
 
 Es verwehren ihre Hilfe:
-* Okeanos
-* Theia
-* Themis
-* Rhea
-* Mnemosyne
-* Tethys
-* Phoibe
+* [Okeanos](/okeanos/)
+* [Theia](/theia/)
+* [Themis](/themis/)
+* [Rhea](/rhea/)
+* [Mnemosyne](/mnemosyne/)
+* [Tethys](/tethys/)
+* [Phoibe](/phoibe/)
 
 Rhea schwört, sich gegen Kronos zu erheben und sich seinen Gegnern anzuschließen. Kronos beschwört und entsendet sein Dämonenheer nach Attika.
 
@@ -335,10 +320,10 @@ KRONOS. Der SCHATTEN. Einige weitere Titanen im Hintergrund.
 Der Schatten berichtet dem Schatten vom Einsturz der Schenke. Kronos ist mit den Informationen unzufrieden und schlägt den Schatten nieder. Menoitios schlägt vor, das Orakel von Delphi aufzusuchen. Kronos denkt darüber nach, eine der anderen Titaninnen ans Orakel zu stellen. Sie brechen auf. Kronos, Menoitios, Kreios und Atlas brechen auf.
 
 ## Historische Ereignisse
-* Entmannung des Uranus
-* Geburt der Aphrodite
-* Machtergreifung des Kronos
-* Verschlingung der Kroniden
+* [Entmannung des Uranus](/entmannung-des-uranus/)
+* [Geburt der Aphrodite](/geburt-der-aphrodite/)
+* [Machtergreifung des Kronos](/machtergreifung-des-kronos/)
+* [Verschlingung der Kroniden](/verschlingung-der-kroniden/)
 
 ## Ausführliches Personenverzeichnis
     Aphrodite
@@ -445,8 +430,10 @@ Himmelsfeste
 
 1. Auflage
 
-    S. 171 (Sie bald ballt die Faust.)
+* S. 171
 
-Siehe auch
+> (Sie ~~bald~~ ballt die Faust.)
 
-    Unterschiede zum Originalmythos
+## Siehe auch
+
+* [Unterschiede zum Originalmythos](/titaneion-1-unterschiede-originalmythos/)
