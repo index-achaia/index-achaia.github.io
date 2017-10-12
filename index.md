@@ -22,7 +22,7 @@ Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/
 
 ## <a name="C">C</a>
 
-*[Chaos](/kaos/)*
+*[Cassandros](/cassandros/) · [Chaos](/kaos/)*
 
 ## <a name="D">D</a>
 
