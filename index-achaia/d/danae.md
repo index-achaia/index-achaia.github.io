@@ -2,6 +2,7 @@
 layout: page
 title: Danae
 permalink: /danae/
+categories: Geliebte des Zeus
 exclude: true
 ---
 
