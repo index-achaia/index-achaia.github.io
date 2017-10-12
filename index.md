@@ -22,7 +22,7 @@ Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/
 
 ## <a name="C">C</a>
 
-*[Cassandros](/cassandros/) · [Chaos](/kaos/) · [Charon](/charon/) · [Cheiron (Kind der Medusa)](/cheiron-kind-der-medusa/) · [Cheiron (Zentaur)](/cheiron-zentaur/) · [Chor der Dramatiker](/chor-der-dramatiker/)*
+*[Cassandros](/cassandros/) · [Chaos](/kaos/) · [Charon](/charon/) · [Cheiron (Kind der Medusa)](/cheiron-kind-der-medusa/) · [Cheiron (Zentaur)](/cheiron-zentaur/) · [Chor der Dramatiker](/chor-der-dramatiker/) · [Colydon](/colydon/)*
 
 ## <a name="D">D</a>
 
