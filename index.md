@@ -18,7 +18,7 @@ Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/
 
 ## <a name="B">B</a>
 
-*[Bestien-Ikas](/bestien-ikas/) · [Briareos](/briareos/)*
+*[Bestien-Ikas](/bestien-ikas/) · [Bithynien](/bityhnien/) · [Briareos](/briareos/)*
 
 ## <a name="C">C</a>
 
