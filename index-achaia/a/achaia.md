@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Achaia
+title: Die Welt Achaia
 permalink: /achaia/
 exclude: true
 ---
