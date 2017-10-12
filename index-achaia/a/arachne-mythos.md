@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Arachne-Mythos
+title: Arachne (Mythos)
 permalink: /arachne-mythos/
 exclude: true
 ---
