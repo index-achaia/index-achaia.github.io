@@ -9,7 +9,7 @@ exclude: true
 
 ## Ereignisse in Arachneion-Pallashass
 
-Aus dem Leichnam des Attis und dem Leichnam der Kybele erweckt die Hexe Hippolaya das Monstrum Agdistis wieder zum Leben.
+Aus dem Leichnam des Attis und dem Leichnam der Kybele erweckt die [Hexe Hippolaya](/hippolaya/) das Monstrum [Agdistis](/agdistis/) wieder zum Leben.
 
 ##  Siehe auch
 
