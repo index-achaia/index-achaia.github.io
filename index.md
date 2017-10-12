@@ -6,13 +6,15 @@ exclude: true
 
 Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/).
 
-[A](#A) · [B](#B) · [C](#C) · [D](#D) · [E](#E) · [G](#G) · [H](#H) · [I](#I) · [K](#K) · [M](#M) · [N](#N) · [O](#O) · [P](#P) · [R](#R)· [S](#S) · [T](#T) · [U](#U) · [Z](#Z)
+[-][#-] · [A](#A) · [B](#B) · [C](#C) · [D](#D) · [E](#E) · [G](#G) · [H](#H) · [I](#I) · [K](#K) · [M](#M) · [N](#N) · [O](#O) · [P](#P) · [R](#R)· [S](#S) · [T](#T) · [U](#U) · [Z](#Z)
+
+## <a name="-">-</a>
+
+[-ide](/ide/)
 
 ## <a name="A">A</a>
 
-[Achaia](/achaia/) · [Aether](/aether/) · [Aphrodite](/aphrodite/)
-
-* [Arachneion-Pallashass](/arachneion-pallashass/)
+[Achaia](/achaia/) · [Aether](/aether/) · [Aphrodite](/aphrodite/) · [Arachneion-Pallashass](/arachneion-pallashass/)
 
 [Askrinos](/askrinos/) · [Athen](/athen/) · [Athene](/athene/) · [Atlas](/atlas/) · [Attika](/attika/)
 
@@ -34,11 +36,7 @@ Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/
 
 ## <a name="G">G</a>
 
-[Gaia](/gaia/)
-
-* [Gorgoneion-Eine Tragodia](/gorgoneion-eine-tragodia/)
-
-[Götter](/goetter/) · [Griechenland](/griechenland/) · [Gyges](/gyges/)
+[Gaia](/gaia/) · [Gorgoneion-Eine Tragodia](/gorgoneion-eine-tragodia/) · [Götter](/goetter/) · [Griechenland](/griechenland/) · [Gyges](/gyges/)
 
 ## <a name="H">H</a>
 
@@ -46,11 +44,7 @@ Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/
 
 ## <a name="I">I</a>
 
-[Iapetos](/iapetos/)
-
-* [Ikareion-Taurusflucht](/ikareion-taurusflucht/)
-
-[Ikas](/ikas/)
+[Iapetos](/iapetos/) · [-ide](/ide/) · [Ikareion-Taurusflucht](/ikareion-taurusflucht/) · [Ikas](/ikas/)
 
 ## <a name="K">K</a>
 
@@ -82,11 +76,7 @@ Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/
 
 ## <a name="T">T</a>
 
-[Tartarus](/tartarus/) · [Tethys](/tethys/) · [Theia](/theia/) · [Themis](/themis/) · [Thermodon](/thermodon/) · [Thermodonion](/thermodonion/) · [Thrakien](/thrakien/)
-
-* [Titaneion-Titanenschlacht](/titaneion-titanenschlacht/)
-  * [Episoda 1: Bestienborn](/titaneion-1/)
-  * [Episoda 2: Kolossansturm](/titaneion-2/)
+[Tartarus](/tartarus/) · [Tethys](/tethys/) · [Theia](/theia/) · [Themis](/themis/) · [Thermodon](/thermodon/) · [Thermodonion](/thermodonion/) · [Thrakien](/thrakien/) · [Titaneion-Titanenschlacht Episoda 1: Bestienborn](/titaneion-1/) · [Titaneion-Titanenschlacht Episoda 2: Kolossansturm](/titaneion-2/)
 
 ## <a name="U">U</a>
 
