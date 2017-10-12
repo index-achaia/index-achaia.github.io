@@ -14,4 +14,4 @@ Die Hexe  [Hippolaya](/hippolaya/) erweckt aus der toten [Kybele](/kybele/) und 
 Wenig später wird der Hermes von der Hexe Hippolaya in Bestienform überrascht. Die Hexe tötet den Götterboten. Die Sandalen des Hermes gibt sie an das Monstrum Agdistis weiter. Dieses ist dadurch in der Lage, über das [Ägäische Meer](/aegaeisches-meer/) zu laufen und so das Deck der [Argo](/argo/) zu erreichen. Hier kommt es zum Kampf zwischen [Iason](/iason/), [Asklepios](/asklepios/),  [Athene](/athene/), [Hera](/hera/), [Arachne](/arachne/), [Padmilos](/padmilos/) und der [Ziege Colydon](/colydon/). Hierbei schlägt der Iason dem Monstrum Agdistis das Gemächt ab. Das Monstrum geht über Bord, reißt jedoch die Ziege Colydon mit sich in die Tiefe. 
 
  ## Siehe auch
- * [Kybele](/kybele/)
+ * [Kybele (Mythos)](/kybele-mythos/)
