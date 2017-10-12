@@ -6,7 +6,7 @@ exclude: true
 
 Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/).
 
-[-](#-) · [A](#A) · [B](#B) · [C](#C) · [D](#D) · [E](#E) · [G](#G) · [H](#H) · [I](#I) · [K](#K) · [M](#M) · [N](#N) · [O](#O) · [P](#P) · [R](#R)· [S](#S) · [T](#T) · [U](#U) · [Z](#Z)
+[-](#-) · [A](#A) · [B](#B) · [C](#C) · [D](#D) · [E](#E) · [G](#G) · [H](#H) · [I](#I) · [K](#K) · [M](#M) · [N](#N) · [O](#O) · [P](#P) · [R](#R)· [S](#S) · [T](#T) · [U](#U) · [W](#W) · [Z](#Z)
 
 ## <a name="-">-</a>
 
@@ -79,6 +79,10 @@ Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/
 ## <a name="U">U</a>
 
 *[Uraniden](/uraniden/) · [Uranus](/uranus/)*
+
+## <a name="W">W</a>
+
+*[Welt](/achaia/) · [Werke](/werke/)*
 
 ## <a name="Z">Z</a>
 
