@@ -26,7 +26,7 @@ Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/
 
 ## <a name="D">D</a>
 
-*[Daedalus](/daedalus/) · [Damistokles](/damistokles/) · [Danae](/danae/) · [Delphi](/delphi/) · [Demeter](/demeter/) · [Demeters Tropfen](/demeters-tropfen/) · [Dionysos](/dionysos/)*
+*[Daedalus](/daedalus/) · [Damistokles](/damistokles/) · [Danae](/danae/) · [Delphi](/delphi/) · [Demeter](/demeter/) · [Demeters Tropfen](/demeters-tropfen/) · [Dionysos](/dionysos/) · [Dronos](/dronos/)*
 
 ## <a name="E">E</a>
 
