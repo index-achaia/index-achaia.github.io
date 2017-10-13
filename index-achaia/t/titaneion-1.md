@@ -131,7 +131,7 @@ Bestien-Ikas bringt Daedalus in sein Geheimlabor. Es kommt zu Unterhaltungen üb
 
 Versammlung der Kinder des Uranus und der Gaia: KRONOS, OKEANOS, HYPERION, KREIOS, KOIOS, IAPETOS, RHEA, TETHYS, THEMIS, PHOIBE, THEIA, MNEMOSYNE.
 
-Kronos berichtet seinen Titanengeschwistern von dem Vorfall mit Bestien-Ikas und erbittet ihre Unterstützung. Kreios will erst Gewissheit, ob es überhaupt zum Kampfe kommen wird (= ob der Bestien-Ikas überhaupt noch lebt). Okeanos schlägt vor, Themis das Orakel befragen zu lassen. Themis verwehrt Kronos ihre Unterstützung, will ihm jedoch den Orakelblick als letzte Hilfe gewähren.
+Kronos berichtet seinen Titanengeschwistern von dem Vorfall mit Bestien-Ikas und erbittet ihre Unterstützung. [Kreios](/kreios/) will erst Gewissheit, ob es überhaupt zum Kampfe kommen wird (= ob der Bestien-Ikas überhaupt noch lebt). Okeanos schlägt vor, Themis das Orakel befragen zu lassen. Themis verwehrt Kronos ihre Unterstützung, will ihm jedoch den Orakelblick als letzte Hilfe gewähren.
 
 #### Hang des Parnass. Weg zum Orakel von Delphi. Nacht.
 
@@ -317,7 +317,7 @@ Hades lässt die Hoffnung fahren und berichtet der Gaia. Uranus kommt herbei und
 
 KRONOS. Der SCHATTEN. Einige weitere Titanen im Hintergrund.
 
-Der Schatten berichtet dem Schatten vom Einsturz der Schenke. Kronos ist mit den Informationen unzufrieden und schlägt den Schatten nieder. Menoitios schlägt vor, das Orakel von Delphi aufzusuchen. Kronos denkt darüber nach, eine der anderen Titaninnen ans Orakel zu stellen. Sie brechen auf. Kronos, Menoitios, Kreios und Atlas brechen auf.
+Der Schatten berichtet dem Schatten vom Einsturz der Schenke. Kronos ist mit den Informationen unzufrieden und schlägt den Schatten nieder. Menoitios schlägt vor, das Orakel von Delphi aufzusuchen. Kronos denkt darüber nach, eine der anderen Titaninnen ans Orakel zu stellen. Sie brechen auf. Kronos, Menoitios, [Kreios](/kreios/) und Atlas brechen auf.
 
 ## Historische Ereignisse
 * [Entmannung des Uranus](/entmannung-des-uranus/)
