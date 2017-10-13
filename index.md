@@ -46,7 +46,7 @@ Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/
 
 ## <a name="I">I</a>
 
-[Iapetos](/iapetos/) · [-ide](/ide/) · [Ikareion-Taurusflucht](/ikareion-taurusflucht/) · [Ikas](/ikas/)
+[Iapetos](/iapetos/) · [Iason](/iason/) · [-ide](/ide/) · [Ikareion-Taurusflucht](/ikareion-taurusflucht/) · [Ikas](/ikas/)
 
 ## <a name="K">K</a>
 
