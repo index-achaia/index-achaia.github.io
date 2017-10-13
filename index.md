@@ -30,7 +30,7 @@ Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/
 
 ## <a name="E">E</a>
 
-[Echidna](/echidna/) · [Eiche von Dodona](/eiche-von-dodona/) · [Elysische Felder](/elysische-felder/) · [Ephyalkes](/ephyalkes/) · [Epirus](/epirus/) · [Erebos](/erebos/) · [Eribotes](/eribotes/) · [Ermordung der drei Richter](/ermordung-der-drei-richter/) · [Ermordung des Hades](/ermordung-des-hades/) · [Echnixa](/echnixa/)
+[Echidna](/echidna/) · [Echnixa](/echnixa/) · [Eiche von Dodona](/eiche-von-dodona/) · [Elysische Felder](/elysische-felder/) · [Ephyalkes](/ephyalkes/) · [Epirus](/epirus/) · [Erebos](/erebos/) · [Eribotes](/eribotes/) · [Ermordung der drei Richter](/ermordung-der-drei-richter/) · [Ermordung des Hades](/ermordung-des-hades/) · [Eurymedon](/eurymedon/)
 
 ## <a name="G">G</a>
 
