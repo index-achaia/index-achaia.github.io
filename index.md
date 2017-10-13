@@ -50,7 +50,7 @@ Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/
 
 ## <a name="K">K</a>
 
-[Kaos](/kaos/) · [Koios](/koios/) · [Kottos](/kottos/) · [Kourion](/kourion/) · [Kreios](/kreios/) · [Kroniden](/kroniden/) · [Kronos](/kronos/) · [Kronospriester](/kronospriester/) · [Kyklopen](/kyklopen/)
+[Kabire](/kabire/) · [Kanthos](/kanthos/) · [Kaos](/kaos/) · [Kap Tainaron](/kap-tainaron/) · [Ker](/ker/) · [Ketos](/ketos/) · [Kleinasien](/kleinasien/) · [Klotho](/klotho/) · [Klytios](/klytios/) · [Koios](/koios/) · [Kokytos](/kokytos/) · [Kolophon](/kolophon/) · [Kolophonium](/kolophonium/) · [Kottos](/kottos/) · [Kourion](/kourion/) · [Krater](/krater/) · [Kreios](/kreios/) · [Kreta](/kreta/) · [Kriegergriff](/kriegergriff/) · [Kroniden](/kroniden/) · [Kronos](/kronos/) · [Kronospriester](/kronospriester/) · [Kybele](/kybele/) · [Kybele (Mythos)](/kybele-mythos/) · [Kyklopen](/kyklopen/)
 
 ## <a name="M">M</a>
 
