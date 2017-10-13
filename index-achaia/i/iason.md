@@ -1,3 +1,10 @@
+---
+layout: page
+title: Iason
+permalink: /iason/
+exclude: true
+---
+
 **Iason** ist der Sohn des [Aison](/aison/) und Anführer der [Argonauten](/argonauten/).
 
 ## Charakter
