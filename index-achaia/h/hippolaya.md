@@ -1,4 +1,9 @@
-Hexe Hippolaya
+---
+layout: page
+title: Hexe Hippolaya
+permalink: /hippolaya/
+exclude: true
+---
 
 Die Hexe **Hippolaya** war eine Geliebte des Heilers [Asklepios](/asklepios/). Sie lebt auf der [Insel Samothrake](/samothrake/). Hippolaya ist eine begnadete Alchimistin.
 
