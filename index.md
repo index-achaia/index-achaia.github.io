@@ -30,7 +30,7 @@ Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/
 
 ## <a name="E">E</a>
 
-[Erebos](/erebos/) · [Eribotes](/eribotes/) · [Ermordung der drei Richter](/ermordung-der-drei-richter/) · [Ermordung des Hades](/ermordung-des-hades/) · [Echnixa](/echnixa/)
+[Epirus](/epirus/) · [Erebos](/erebos/) · [Eribotes](/eribotes/) · [Ermordung der drei Richter](/ermordung-der-drei-richter/) · [Ermordung des Hades](/ermordung-des-hades/) · [Echnixa](/echnixa/)
 
 ## <a name="G">G</a>
 
