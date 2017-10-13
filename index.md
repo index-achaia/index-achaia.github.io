@@ -38,7 +38,7 @@ Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/
 
 ## <a name="G">G</a>
 
-[Gaia](/gaia/) · [Gorgoneion-Eine Tragodia](/gorgoneion-eine-tragodia/) · [Glaukos](/glaukos/) · [Goldenes Vlies](/goldenes-vlies/) · [Götter](/goetter/) · [Griechenland](/griechenland/) · [Gyges](/gyges/)
+[Gaia](/gaia/) · [Gorgoneion-Eine Tragodia](/gorgoneion-eine-tragodia/) · [Gorgonen](/gorgonen/) · [Glaukos](/glaukos/) · [Goldenes Vlies](/goldenes-vlies/) · [Götter](/goetter/) · [Griechenland](/griechenland/) · [Gyges](/gyges/)
 
 ## <a name="H">H</a>
 
