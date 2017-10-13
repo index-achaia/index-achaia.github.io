@@ -30,7 +30,7 @@ Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/
 
 ## <a name="E">E</a>
 
-[Echnixa](/echnixa/)
+[Ermordung des Hades](/ermordung-des-hades/) · [Echnixa](/echnixa/)
 
 ## <a name="G">G</a>
 
