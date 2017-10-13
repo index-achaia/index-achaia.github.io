@@ -5,4 +5,4 @@ permalink: /europa/
 exclude: true
 ---
 
-**Europa** war eine Geliebte des [Zeus](/zeus/). 
+**Europa** war eine [Geliebte](/geliebtes-des-zeus/) des [Zeus](/zeus/). 
