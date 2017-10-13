@@ -11,4 +11,4 @@ Ihre Namen waren Medusa, [Stheno](/stheno/) und [Euryale](/euryle/).
 
 ## Ereignisse in Gorgoneion-Eine Tragodia
 
-Medusa ist die Hauptfigur in [Gorgoneion-Eine Tragrodia](/gorgoneion-eine-tragodia/): Hier trifft sie der Fluch des [Ephyalkes](/ephyalkes/), so dass ihr zehn Jahre lang Haare statt Nattern aus dem Schopfe wachsen.
+Medusa ist die Hauptfigur in [Gorgoneion-Eine Tragodia](/gorgoneion-eine-tragodia/): Hier trifft sie der Fluch des [Ephyalkes](/ephyalkes/), so dass ihr zehn Jahre lang Haare statt Nattern aus dem Schopfe wachsen.
