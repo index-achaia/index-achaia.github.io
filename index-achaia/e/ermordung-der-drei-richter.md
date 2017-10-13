@@ -2,6 +2,7 @@
 layout: page
 title: Ermordung der drei Richter
 permalink: /ermordung-der-drei-richter/
+categories: Arachneion-Pallashass, Historisches Ereignis
 exclude: true
 ---
 
