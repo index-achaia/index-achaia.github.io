@@ -46,7 +46,7 @@ Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/
 
 ## <a name="I">I</a>
 
-[Iapetos](/iapetos/) · [Iason](/iason/) · [-ide](/ide/) · [Ikareion-Taurusflucht](/ikareion-taurusflucht/) · [Ikas](/ikas/)
+[Iapetos](/iapetos/) · [Iason](/iason/) · [Idas](/idas/) · [-ide](/ide/) · [Idmon](/idmon/) · [Ikariod](/ikariod/) · [Ikareion-Taurusflucht](/ikareion-taurusflucht/) · [Ikarische See](/ikarische-see/) · [Ikarus](/ikarus/) · [Ikas](/ikas/) · [Insel der Moiren](/insel-der-moiren/) · [Iolkos](/iolkos/) · [Ionien](/ionien/) · [Ixmos](/ixmos/)
 
 ## <a name="K">K</a>
 

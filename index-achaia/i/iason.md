@@ -13,7 +13,7 @@ Der Iason verachtet den Tod zutiefst.
 
 ## Tod des Iason
 
-Jahre nach dem [Argonautenzug](/argonautenfahrt/) schlief der Iason im Schatten der [argo](/argo/) ein und
+Jahre nach dem [Argonautenzug](/argonautenfahrt/) schlief der Iason im Schatten der [Argo](/argo/) ein und
 wurde von dem in diesem Moment entzweibrechenden Schiff erschlagen. 
 
 ## Waffen und Ausrüstung
