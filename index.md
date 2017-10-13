@@ -42,7 +42,7 @@ Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/
 
 ## <a name="H">H</a>
 
-[Hades](/hades/) · [Hadesbrand](/hadesbrand/) · [Hadesfestung](/festung-des-hades/) · [Halix der Säufer](/halix/) · [Halle der Richter](/halle-der-richter/) · [Harpokrates](/harpokrates/) · [Hekatoncheiren](/hekatoncheiren/) · [Helden](/helden/) · [Hephaistos](/hephaistos/) · [Hera](/hera/) · [Herakleia Pontike](/herakleia-pontike/) · [Herakles](/herakles/) · [Hermes](/hermes/) · [Hestia](/hestia/) · [Himmelsfestung des Uranus](/himmelsfestung-des-uranus/) · [Hippe](/hippe/) · [Hydrofestation](/hydrofestation/) · [Hyperion](/hyperion/)
+[Hades](/hades/) · [Hadesbrand](/hadesbrand/) · [Hadesfestung](/festung-des-hades/) · [Halix der Säufer](/halix/) · [Halle der Richter](/halle-der-richter/) · [Harpokrates](/harpokrates/) · [Hekatoncheiren](/hekatoncheiren/) · [Helden](/helden/) · [Hephaistos](/hephaistos/) · [Hera](/hera/) · [Herakleia Pontike](/herakleia-pontike/) · [Herakles](/herakles/) · [Hermes](/hermes/) · [Hestia](/hestia/) · [Hexenhain](/hexenhain/) · [Himmelsfestung des Uranus](/himmelsfestung-des-uranus/) · [Hippe](/hippe/) · [Hydrofestation](/hydrofestation/) · [Hyperion](/hyperion/)
 
 ## <a name="I">I</a>
 
