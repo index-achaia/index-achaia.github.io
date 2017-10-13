@@ -5,4 +5,4 @@ permalink: /euryale/
 exclude: true
 ---
 
-**Euryale** war eine der drei [Gorgonen](/gorgonen/).
+**Euryale** ist eine der drei [Gorgonen](/gorgonen/).
