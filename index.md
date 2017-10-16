@@ -58,7 +58,7 @@ Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/
 
 ## <a name="M">M</a>
 
-[Macedonia](/macedonia/) · [Mächtige Artefakte](/maechtige-artefakte/) · [Manifestation](/manifestation/) · [Menoitios](/menoitios/) · [Metis](/metis/) · [Mnemosyne](/mnemosyne/)
+[Macedonia](/macedonia/) · [Mächtige Artefakte](/maechtige-artefakte/) · [Maia](/maia/) · [Manifestation](/manifestation/) · [Menoitios](/menoitios/) · [Metis](/metis/) · [Mnemosyne](/mnemosyne/)
 
 ## <a name="N">N</a>
 
