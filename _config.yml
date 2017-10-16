@@ -19,7 +19,7 @@ description: "Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt Ach
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mythenhacker
-github_username:  index-achaia
+github_username:  mythenhacker
 
 # Build settings
 markdown: kramdown
