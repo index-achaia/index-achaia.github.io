@@ -82,7 +82,7 @@ Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/
 
 ## <a name="S">S</a>
 
-[Salamis (Insel)](/salamis-insel/) · [Salamis (Zypern)](/salamis-zypern/) · [Samothrake](/samothrake/) · [Sandrias](/sandrias/) · [Sangarios](/sangarios/) · [Saronischer Golf](/saronischer-golf/) · [Sarpedon](/sarpedon/) · [Schatten des Kronospriesters](/schatten-des-kronospriesters/) · [Schiff (Weberei)](/schiff-weberei/) · [Schütze (Weberei)](/schuetze-weberei/) · [Schwarzer König](/schwarzer-koenig/) · [Seher](/seher/) · [Seriphos](/seriphos/) · [Sisyphus](/sisyphus/) · [Sophokles](/sophokles/) · [Sparta](/sparta/) · [Spiegelschild der Athene](/spiegelschild-der-athene/) · [Stheno](/stheno/)
+[Salamis (Insel)](/salamis-insel/) · [Salamis (Zypern)](/salamis-zypern/) · [Samothrake](/samothrake/) · [Sandrias](/sandrias/) · [Sangarios](/sangarios/) · [Saronischer Golf](/saronischer-golf/) · [Sarpedon](/sarpedon/) · [Schatten des Kronospriesters](/schatten-des-kronospriesters/) · [Schiff (Weberei)](/schiff-weberei/) · [Schütze (Weberei)](/schuetze-weberei/) · [Schwarzer König](/schwarzer-koenig/) · [Seher](/seher/) · [Seriphos](/seriphos/) · [Sisyphus](/sisyphus/) · [Sophokles](/sophokles/) · [Sparta](/sparta/) · [Spiegelschild der Athene](/spiegelschild-der-athene/) · [Stheno](/stheno/) · [Styx](/styx/)
 
 ## <a name="T">T</a>
 
