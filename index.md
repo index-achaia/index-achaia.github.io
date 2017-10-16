@@ -82,7 +82,7 @@ Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/
 
 ## <a name="S">S</a>
 
-[Salamis (Insel)](/salamis-insel/) · [Salamis (Zypern)](/salamis-zypern/) · [Samothrake](/samothrake/) · [Sandrias](/sandrias/) · [Sangarios](/sangarios/)· [Saronischer Golf](/saronischer-golf/) · [Sarpedon](/sarpedon/) · [Schatten des Kronospriesters](/schatten-des-kronospriesters/) · [Sparta](/sparta/)
+[Salamis (Insel)](/salamis-insel/) · [Salamis (Zypern)](/salamis-zypern/) · [Samothrake](/samothrake/) · [Sandrias](/sandrias/) · [Sangarios](/sangarios/)· [Saronischer Golf](/saronischer-golf/) · [Sarpedon](/sarpedon/) · [Schatten des Kronospriesters](/schatten-des-kronospriesters/) · [Schiff (Weberei)](/schiff-weberei/) · [Sparta](/sparta/)
 
 ## <a name="T">T</a>
 
