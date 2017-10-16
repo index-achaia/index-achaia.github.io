@@ -70,7 +70,7 @@ Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/
 
 ## <a name="P">P</a>
 
-[Padmilos](/padmilos/) · [Pallas](/pallas/) · [Pandrinos](/pandrinos/) · [Pantheon](/pantheon/) · [Paphos](/paphos/) · [Parnass](/parnass/) · [Pasiphae](/pasiphae/) · [Peleus](/peleus/) · [Perdix](/perdix/) · [Phoibe](/phoibe/) · [Phydrax](/phydrax/) · [Poseidon](/poseidon/) · [Protogenoi](/protogenoi/) · [Pygmalion](/pygmalion/) · [Python](/python/)
+[Padmilos](/padmilos/) · [Pallas](/pallas/) · [Pandrinos](/pandrinos/) · [Pantheon](/pantheon/) · [Paphos](/paphos/) · [Parnass](/parnass/) · [Pasiphae](/pasiphae/) · [Peleus](/peleus/) · [Perdix](/perdix/) · [Perseus](/perseus/) · [Phoibe](/phoibe/) · [Phydrax](/phydrax/) · [Poseidon](/poseidon/) · [Protogenoi](/protogenoi/) · [Pygmalion](/pygmalion/) · [Python](/python/)
 
 ## <a name="R">R</a>
 
