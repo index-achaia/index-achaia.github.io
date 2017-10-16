@@ -66,7 +66,7 @@ Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/
 
 ## <a name="O">O</a>
 
-[Obulus](/obulus/) · [Okeanos](/okeanos/) · [Olymp](/olymp/) · [Orakel von Delphi](/orakel-von-delphi/) · [Ostreos](/ostreos/)
+[Obulus](/obulus/) · [Okeaniden](/okeaniden/) · [Okeanos](/okeanos/) · [Olymp](/olymp/) · [Orakel von Delphi](/orakel-von-delphi/) · [Ostreos](/ostreos/)
 
 ## <a name="P">P</a>
 
