@@ -78,7 +78,7 @@ Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/
 
 ## <a name="R">R</a>
 
-[Rhea](/rhea/)
+[Rhadamanthys](/rhadamanthys/) · [Rhea](/rhea/)
 
 ## <a name="S">S</a>
 
