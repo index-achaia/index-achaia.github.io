@@ -15,7 +15,7 @@ Martin-Luther-Straße 32
 
 Telefon: +49 (0) 176 458 733 63
 
-E-Mail: kontakt@mythenhacker.de
+E-Mail: <a href="mailto:index-achaia@mythenhacker.de">index-achaia@mythenhacker.de</a>
 
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
