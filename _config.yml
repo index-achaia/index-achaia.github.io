@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: INDEX ACHAIA
-email: your-email@domain.com
+email: index-achaia@mythenhacker.de
 description: "Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt Achaia."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
