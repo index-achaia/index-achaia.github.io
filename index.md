@@ -98,7 +98,7 @@ Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/
 
 ## <a name="W">W</a>
 
-[Welt](/achaia/) · [Werke](/werke/)
+[Welt](/achaia/) · [Werke](/werke/) · [Wesen](/wesen/)
 
 ## <a name="Z">Z</a>
 
