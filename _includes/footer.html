@@ -16,8 +16,7 @@
             </li>
             {% if site.email %}
             <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
-            <li><a href="http://achaia.org/impressum/">Impressum</a> & <a href="http://achaia.org/datenschutz/">Datenschutz</a></li>
+            {% endif %}            
         </ul>
       </div>
 
@@ -38,7 +37,7 @@
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{ site.description | escape }}</p>
+        <p>{{ site.description | escape }}<br /><a href="http://achaia.org/impressum/">Impressum</a> & <a href="http://achaia.org/datenschutz/">Datenschutz</a></p>
       </div>
     </div>
 
