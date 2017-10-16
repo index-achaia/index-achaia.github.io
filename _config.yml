@@ -18,8 +18,8 @@ email: index-achaia@mythenhacker.de
 description: "Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt Achaia."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: mythenhacker
-github_username:  mythenhacker
+twitter_username: 
+github_username:  
 
 # Build settings
 markdown: kramdown
