@@ -6,7 +6,7 @@ exclude: true
 
 Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/).
 
-[-](#-) · [A](#A) · [B](#B) · [C](#C) · [D](#D) · [E](#E) · [F](#F) · [G](#G) · [H](#H) · [I](#I) · [K](#K) · [M](#M) · [N](#N) · [O](#O) · [P](#P) · [R](#R)· [S](#S) · [T](#T) · [U](#U) · [W](#W) · [Z](#Z)
+[-](#-) · [A](#A) · [B](#B) · [C](#C) · [D](#D) · [E](#E) · [F](#F) · [G](#G) · [H](#H) · [I](#I) · [K](#K) · [L](#L) · [M](#M) · [N](#N) · [O](#O) · [P](#P) · [R](#R)· [S](#S) · [T](#T) · [U](#U) · [W](#W) · [Z](#Z)
 
 ## <a name="-">-</a>
 
@@ -51,6 +51,10 @@ Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/
 ## <a name="K">K</a>
 
 [Kabire](/kabire/) · [Kanthos](/kanthos/) · [Kaos](/kaos/) · [Kap Tainaron](/kap-tainaron/) · [Ker](/ker/) · [Ketos](/ketos/) · [Kleinasien](/kleinasien/) · [Klotho](/klotho/) · [Klytios](/klytios/) · [Koios](/koios/) · [Kokytos](/kokytos/) · [Kolophon](/kolophon/) · [Kolophonium](/kolophonium/) · [Kottos](/kottos/) · [Kourion](/kourion/) · [Krater](/krater/) · [Kreios](/kreios/) · [Kreta](/kreta/) · [Kriegergriff](/kriegergriff/) · [Kroniden](/kroniden/) · [Kronos](/kronos/) · [Kronospriester](/kronospriester/) · [Kybele](/kybele/) · [Kybele (Mythos)](/kybele-mythos/) · [Kyklopen](/kyklopen/)
+
+## <a name="L">L</a>
+
+[Labyrinth des Minotaurus](/labyrinth-des-minotaurus/)
 
 ## <a name="M">M</a>
 
