@@ -86,7 +86,7 @@ Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/
 
 ## <a name="T">T</a>
 
-[Talent](/talent/) · [Tartarus](/tartarus/) · [Teiresias](/teiresias/) · [Tempel des Attis](/tempel-des-attis/) · [Tethys](/tethys/) · [Thanatos](/thanatos/) · [Theia](/theia/) · [Themis](/themis/) · [Thermodon](/thermodon/) · [Thermodonion](/thermodonion/) · [Thessalien](/thessalien/) · [Thrakien](/thrakien/) · [Thraphes](/thraphes/) · [Tiphys](/tiphys/) · [Titaneion-Titanenschlacht Episoda 1: Bestienborn](/titaneion-1/) · [Titaneion-Titanenschlacht Episoda 2: Kolossansturm](/titaneion-2/) · [Titanen](/titanen/) · [Tod des Hermes](/tod-des-hermes/)
+[Talent](/talent/) · [Tartarus](/tartarus/) · [Teiresias](/teiresias/) · [Tempel des Attis](/tempel-des-attis/) · [Tethys](/tethys/) · [Thanatos](/thanatos/) · [Theia](/theia/) · [Themis](/themis/) · [Thermodon](/thermodon/) · [Thermodonion](/thermodonion/) · [Thessalien](/thessalien/) · [Thrakien](/thrakien/) · [Thraphes](/thraphes/) · [Tiphys](/tiphys/) · [Titaneion-Titanenschlacht Episoda 1: Bestienborn](/titaneion-1/) · [Titaneion-Titanenschlacht Episoda 2: Kolossansturm](/titaneion-2/) · [Titanen](/titanen/) · [Tod des Hermes](/tod-des-hermes/) · [Totenreich](/totenreich/)
 
 ## <a name="U">U</a>
 
