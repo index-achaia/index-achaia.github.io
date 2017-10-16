@@ -102,4 +102,4 @@ Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/
 
 ## <a name="Z">Z</a>
 
-[Zeus](/zeus) · [Zyklopen](/kyklopen/) · [Zypern](/zyprus/) · [Zyprus](/zyprus/)
+[Zentaur](/zentaur/) · [Zeus](/zeus/) · [Zyklopen](/kyklopen/) · [Zypern](/zyprus/) · [Zyprus](/zyprus/)
