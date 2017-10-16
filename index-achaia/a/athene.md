@@ -25,7 +25,7 @@ Der goldene Harnisch ist unzerstörbar und sogar in der Lage, die nekromantische
 
 ### Der Schild der Athene
 
-Der Schild ist der, mit dem auch [Perseus](/perseus/) das Labyrinth der [Medusa](/medusa/) betritt (s. [Gorgoneion-Eine Tragodia](/gorgoneion-eine-tragodia/)).
+Der [Schild](/spiegelschild-der-athene/) ist der, mit dem auch [Perseus](/perseus/) das Labyrinth der [Medusa](/medusa/) betritt (s. [Gorgoneion-Eine Tragodia](/gorgoneion-eine-tragodia/)).
 
 ## Ereignisse in Arachneion-Pallashass
 
