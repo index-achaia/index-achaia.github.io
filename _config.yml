@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: INDEX ACHAIA
 email: your-email@domain.com
-description: "Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/)."
+description: "Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt Achaia."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
