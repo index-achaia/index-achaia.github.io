@@ -9,4 +9,4 @@ exclude: true
 
 ## Ereignisse in Titaneion-Titanenschlacht Episoda 1: Bestienborn
 
-Während der Ersten Titanenheerschau sagt sie sich von Kronos und seinen finsteren Plänen los und schließt sich der Gaia in ihrem Kampf gegen die Titanen an. Seit dem Harpyienangriff auf die Schenke Quelle des Lyäus in Athen gilt sie als vermisst.
+Während der Ersten Titanenheerschau sagt sie sich von Kronos und seinen finsteren Plänen los und schließt sich [Gaia](/gaia/) in ihrem Kampf gegen die Titanen an. Seit dem Harpyienangriff auf die Schenke [Quelle des Lyäus](/quelle-des-lyaeus/) in [Athen](/athen/) gilt sie als vermisst.
