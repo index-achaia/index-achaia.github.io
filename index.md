@@ -18,7 +18,7 @@ Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/
 
 ## <a name="B">B</a>
 
-[Bestien-Ikas](/bestien-ikas/) · [Bithynien](/bityhnien/) · [Blutschau](/blutschau/) · [Briareos](/briareos/) · [Bugspriet](/bugspriet/)
+[Bestien-Ikas](/bestien-ikas/) · [Bithynien](/bityhnien/) · [Blut der Moiren](/moirenblut/) · [Blutschau](/blutschau/) · [Briareos](/briareos/) · [Bugspriet](/bugspriet/)
 
 ## <a name="C">C</a>
 
@@ -58,7 +58,7 @@ Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/
 
 ## <a name="M">M</a>
 
-[Macedonia](/macedonia/) · [Mächtige Artefakte](/maechtige-artefakte/) · [Maia](/maia/) · [Manifestation](/manifestation/) · [Menoitios](/menoitios/) · [Medusa](/medusa/) · [Metis](/metis/) · [Minos](/minos/) · [Minotaurus](/minotaurus/) · [Mnemosyne](/mnemosyne/) · [Moiren](/moiren/)
+[Macedonia](/macedonia/) · [Mächtige Artefakte](/maechtige-artefakte/) · [Maia](/maia/) · [Manifestation](/manifestation/) · [Menoitios](/menoitios/) · [Medusa](/medusa/) · [Metis](/metis/) · [Minos](/minos/) · [Minotaurus](/minotaurus/) · [Mnemosyne](/mnemosyne/) · [Moiren](/moiren/) · [Moirenblut](/moirenblut/)
 
 ## <a name="N">N</a>
 
