@@ -13,4 +13,4 @@ exclude: true
 * [Pantheon](/pantheon/)
 * [Lanze der Athene](/athene/#lanze-der-athene/)
 * [Schild der Athene](/athene/#schild-der-athene/)
-* Kette des [Prometheus](/prometheus/)
+* [Kette des Prometheus](/prometheus/#bringer-des-feuers/)
