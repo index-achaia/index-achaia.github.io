@@ -54,7 +54,7 @@ Hintergrundinfos zur griechisch-mythologischen Alternativ-Welt [Achaia](/achaia/
 
 ## <a name="L">L</a>
 
-[Labyrinth des Minotaurus](/labyrinth-des-minotaurus/) · [Lachesis](/lachesis/) · [Lebensfaden](/lebensfaden/)
+[Labyrinth des Minotaurus](/labyrinth-des-minotaurus/) · [Lachesis](/lachesis/) · [Lebensfaden](/lebensfaden/) · [Legendäre Artefakte](/legendaere-artefakte/)
 
 ## <a name="M">M</a>
 
